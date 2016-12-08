@@ -1,0 +1,5 @@
+# Working with SALTO.
+/*
+!.gitignore
+!/repository
+/repository/admin/arbox.bak
