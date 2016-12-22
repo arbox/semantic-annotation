@@ -3,3 +3,4 @@
 !.gitignore
 !/repository
 /repository/admin/arbox.bak
+*xml.lock
