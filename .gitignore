@@ -4,3 +4,4 @@
 !/repository
 /repository/admin/arbox.bak
 *xml.lock
+/repository/backup
