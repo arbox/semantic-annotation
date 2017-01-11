@@ -1,4 +1,4 @@
-s63352: <s63352q1 Der V-Mann s63352q1 s63352q1> war immer zentral plaziert
+s63352: <s63352q1 Der V-Mann s63352q1> war immer zentral plaziert
 s63352q1: Wer war immer zentral plaziert?
 
 s63353: <s63353q2 Der Verfassungsschutz s63353q2> saß <s63352q3 in der Kanzlei eines Verteidigers im Schmücker-Verfahren / Von Till Meyer s63352q3>
@@ -29,11 +29,12 @@ s63359: <s63359q14 Wegen der Verwicklungen des Amtes in diesen Fall s63359q14> i
 s63359q14: Weshalb ist bis heute ungeklärt, was in jener Nacht tatsächlich passierte?
 s63359q15: Was ist wegen der Verwicklungen des Amtes in diesem Fall bis heute ungeklärt? 
 
-s63360: Jetzt wurde <s63359q16 ein weiterer V-Mann s63359q16> enttarnt , der gar in der Kanzlei eines der Verteidiger gesessen hat .
+s63360: Jetzt wurde <s63359q16 ein weiterer V-Mann s63359q16> enttarnt , <s63359q16 der gar in der Kanzlei eines der Verteidiger gesessen hat s63359q16>.
 s63360q16: Wer wurde jetzt enttarnt?
 
-s63361: Als der Rechtsanwalt Philipp Heinisch , Verteidiger im Schmücker-Verfahren , im Frühjahr 1988 Auskunft darüber begehrte , <s63361q17 ob es zutreffe , daß in den siebziger Jahren ein V-Mann des Verfassungsschutzes in seiner Kanzlei plaziert gewesen sei s63361q17>, wurde dies vom Chef des Berliner Landesamtes für Verfassungsschutz , Dieter Wagner , entschieden zurückgewiesen .
+s63361: Als der Rechtsanwalt Philipp Heinisch , Verteidiger im Schmücker-Verfahren , im Frühjahr 1988 Auskunft darüber begehrte , <s63361q17 ob es zutreffe , <s63361q112 daß in den siebziger Jahren ein V-Mann des Verfassungsschutzes in seiner Kanzlei plaziert gewesen sei s63361q112> s63361q17>, wurde dies vom Chef des Berliner Landesamtes für Verfassungsschutz , Dieter Wagner , entschieden zurückgewiesen .
 s63361q17: Worüber begehrte der Rechtsanwalt Philipp Heinisch im Frühjahr 1988 Auskunft?
+s63361q112: Was wurde vom Chef des Berliner Landesamtes für Verfassungsschutz, Dieter Wagner, entschieden zurückgewiesen?
 
 s63362: <s63362q18 " Es gehört nicht zu den Aufgaben des Verfassungsschutzes , Organe der Rechtspflege in ihrer rechtmäßigen Amtsausübung zu überwachen " s63362q18>, erklärte Wagner zur Untermauerung seines Dementis .
 s63362q18: Was erklärte Wagner zur Untermauerung seines Dementis?
@@ -55,13 +56,14 @@ s63366q24: Wen zog Kewenig ins Vertrauen?
 s63367: <s63367q25 Borck s63367q25> gegenüber räumte Kewenig ein , <s63367q26 daß die Vorwürfe , die der ' Spiegel ` einen Monat zuvor veröffentlicht hatte , im wesentlichen zutreffen s63367q26>.
 s63367q25: Wem gegenüber räumte Kewenig ein, daß die Vorwürfe , die der  Spiegel ` einen Monat zuvor veröffentlicht hatte , im wesentlichen zutreffen .
 s63367q26: Was räumte Kewenig Borck gegenüber ein?
+s63367q113: Was hatte der Spiegel einen Monat zuvor veröffentlicht?
 
-s63368: Der ' Spiegel ` hatte berichtet , <s63368q27 daß die Alliierten auf Antrag des Verfassungsschutzes die Telefonleitungen der Rechtsanwaltskanzlei Heinisch angezapft hatten s63368q27> .
-s63368q27: Was hatte der ' Spiegel `berichtet? 
+s63368: Der ' Spiegel ` hatte berichtet , <s63367q113 <s63368q27 daß die Alliierten auf Antrag des Verfassungsschutzes die Telefonleitungen der Rechtsanwaltskanzlei Heinisch angezapft hatten s63368q27> s63367q113> .
+s63368q27: Was hatte der ' Spiegel ` berichtet? 
 
-s63369: Zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte , sei <s63369qq29 vor und während des gesamten ersten Schmücker-Verfahrens bis zum Juni 1976 s63369qq29> ein V-Mann <s63369qq28 als Rechtsanwaltsgehilfe s63369qq28> in der Kanzlei tätig gewesen .
-s63369qq28: Als was sei zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte ,vor und während des gesamten ersten Schmücker-Verfahrens bis zum Juni 1976 ein V-Mann in der Kanzlei tätig gewesen?
-s63369qq29: Wann sei zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte , ein V-Mann als Rechtsanwaltsgehilfe in der Kanzlei tätig gewesen?
+s63369: Zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte , sei <s63369q29 vor und während des gesamten ersten Schmücker-Verfahrens bis zum Juni 1976 s63369q29> ein V-Mann <s63369q28 als Rechtsanwaltsgehilfe s63369q28> in der Kanzlei tätig gewesen .
+s63369q28: Als was sei zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte ,vor und während des gesamten ersten Schmücker-Verfahrens bis zum Juni 1976 ein V-Mann in der Kanzlei tätig gewesen?
+s63369q29: Wann sei zusätzlich zu dieser Lauschaktion , die mindestens von 1975 bis 1980 währte , ein V-Mann als Rechtsanwaltsgehilfe in der Kanzlei tätig gewesen?
 
 s63370: Es handelt sich dabei <s63370q30 um den in der Linken zwar häufig als V-Mann verdächtigten , aber bis zum jetzt bekannt gewordenen Kewenig-Geständnis nie enttarnten Christian Hain , Deckname Flach s63370q30> .
 s63370q30: Um wen handelt es sich dabei?
@@ -75,10 +77,11 @@ s63372q32: Was ist seinem Fleiß zu verdanken?
 s63373: Damit hatte sich die Anklage <s63373q33 bis auf die Verteidigerbank vorgearbeitet s63373q33> .
 s63373q33: Wohin hatte sich die Anklage damit vorgearbeitet? 
 
-s63374: Nach Kewenigs Version allerdings ohne zu wissen , wie sie zu ihrem Glück gekommen war : Angeblich hätten die Anklagevertreter im Schmücker-Verfahren nicht gewußt , <s63374q34 auf welchem Weg die Interna der Gegenseite auf ihr Anklagepult gelangt seien s63374q34>.
+s63374: Nach Kewenigs Version allerdings ohne zu wissen , wie sie zu ihrem Glück gekommen war : <s63374q114 Angeblich hätten die Anklagevertreter im Schmücker-Verfahren nicht gewußt , <s63374q34 auf welchem Weg <s63375q35 die Interna der Gegenseite s63375q35> auf ihr Anklagepult gelangt seien s63374q34> s63374q114>.
 s63374q34: Was hätten die Anklagevertreter im Schmücker-Verfahren angeblich nicht gewusst? 
+s63374q114: Was war Kewenigs Version?
 
-s63375: Dankbar benutzt haben sie sie trotzdem .
+s63375: Dankbar benutzt haben sie <s63375q35 sie s63375q35> trotzdem .
 s63375q35: Was haben sie dankbar benutzt? 
 
 s63376: Von Kewenig dermaßen ins Vertrauen gezogen , vergaß <s63376q37 der Präsident der Anwaltskammer Borck s63376q37>, <s63376q36 zur Rettung seines Berufsstandes zu schreiten s63376q36>.
@@ -94,14 +97,15 @@ s63378q39: Was verschwand unter dem Geschäftszeichen IAR 283.88 (Präs.) im Akt
 s63378q40: Wo verschwand der brisante Vermerk über das aufschlußreiche Gespräch mit dem Innensenator unter dem Geschäftszeichen IAR 283.88 ( Präs. )?
 
 
-s63379: <s63379q43 Noch rechtzeitig vor Beendigung des Untersuchungsausschusses zur Skandalspirale des Berliner Verfassungsschutzes s63379q43> fiel <s63379q42 der so abgebunkerte Vermerk s63379q42> allerdings <s63379q41 einem Mitglied des 20köpfigen Vorstands der Anwaltskammer s63379q41> in die Hände .
+s63379: <s63379q43 Noch rechtzeitig vor Beendigung des Untersuchungsausschusses zur Skandalspirale des Berliner Verfassungsschutzes s63379q43> fiel <s63379q42 der so abgebunkerte Vermerk s63379q42> allerdings <s63379q41 <s63380q114 einem Mitglied des 20köpfigen Vorstands der Anwaltskammer s63380q114> s63379q41> in die Hände .
 s63379q41: Wem fiel noch rechtzeitig vor Beendigung des Unterschuchungsausschusses zur Skandalspirale des Berliner Verfassungsschutzes der so abgebunkerte Vermerk in die Hände?
 s63379q42: Was fiel noch rechtzeitig vor Beendigung des Untersuchungsausschusses zur Skandalspirale des Berliner Verfassungsschutzes einem Mitglied des 20köpfigen Vorstands der Anwaltskammer in die Hände ?
 s63379q43: Wann fiel der so abgebunkerte Vermerk einem Mitglied des 20köpfigen Vorstands der Anwaltskammer in die Hände?
 
-s63380: Dieser erwies sich <s63380q45 als besserer Vertreter seines Standes s63380q45> und informierte <s63380q44 seine Vorstandskollegen s63380q44>.
+s63380: <s63380q114 Dieser s63380q114> erwies sich <s63380q45 als besserer Vertreter seines Standes s63380q45> und informierte <s63380q44 seine Vorstandskollegen s63380q44>.
 s63380q44: Wen informierte dieser?
 s63380q45: Als was erwies sich dieser?
+s63380q114: Wer erwiest sich als besserer Vertreter seines Standes?
 
 s63381: <s63381q46 Für kommenden Mittwoch , den 4. Januar 1989 s63381q46> , wurde daraufhin eine Vorstandssitzung der Anwaltskammer anberaumt , auf der entschieden werden sollte , <s63381q47 ob das Kewenig-Geständnis an die Öffentlichkeit gebracht werden solle s63381q47>.
 s63381q46: Für wann wurde daraufhin eine Vorstandssitzung der Anwaltskammer anberaumt , auf der entschieden werden sollte , ob das Kewenig-Geständnis an die Öffentlichkeit gebracht werden solle?
@@ -132,9 +136,10 @@ s63389: Schon jetzt ist bekannt , <s63389q55 daß <s63389q56 die Waffe , mit der
 s63389q55: Was ist schon jetzt bekannt?
 s63389q56: Was gelangte umgehend in die Hände des Verfassungschutzes?
 
-s63390: <s63390q57 In jener Nacht s63390q57> war sie <s63390q57 unmittelbar nach der Tat s63390q57> <s63390q58 von dem damals noch nicht enttarnten V-Mann Volker Weingraber Edler von Grodeck , der sie im Auftrag seiner Gruppe " Schwarzer Juni " verschwinden lassen sollte s63390q58> , seinem V-Mann-Führer Michael Grünhagen übergeben worden .
+s63390: <s63390q57 In jener Nacht s63390q57> war sie <s63390q57 unmittelbar nach der Tat s63390q57> <s63390q58 von dem damals noch nicht enttarnten V-Mann Volker Weingraber Edler von Grodeck , der sie im Auftrag seiner Gruppe " Schwarzer Juni " verschwinden lassen sollte s63390q58> , <s63390q115 seinem V-Mann-Führer Michael Grünhagen s63390q115> übergeben worden .
 s63390q57: Wann war sie von dem damals noch nicht enttarnten V-Mann Volker Weingraber Edler von Grodeck , der sie im Auftrag seiner Gruppe " Schwarzer Juni " verschwinden lassen sollte , seinem V-Mann-Führer Michael Grünhagen übergeben worden ?
 s63390q58: Von wem war sie in jener Nacht unmittelbar nach der Tat seinem V-Mann-Führer Michael Grünhagen übergeben worden?
+s63390q115: Wem war die Waffe übergeben worden?
  
 s63391: <s63391q60 Weingraber selbst s63391q60> jedoch wurde <s63391q59 bis zum dritten Durchgang des Schmücker-Verfahrens s63391q59> im Prozeß nie erwähnt .
 s63391q59: Bis wann wurde Weingraber selbst im Prozeß nie erwähnt?
@@ -150,22 +155,24 @@ s63393q63: Was kassierte er Ende der siebziger Jahre vom Berliner Amt?
 s63394: Immer im innersten Kreis
 s63394q
 
-s63395: Weniger angenehm ging das doppelte Spiel für drei andere V-Män-ner im Schmücker-Komplex aus : Schmücker selbst , statt von " Schwarzer Juni " - Anarchos hauptsächlich von V-Leuten umgeben , bezahlte sein riskantes Indianerspiel im Untergrund <s63395q64 mit dem Leben s63395q64>.
+s63395: Weniger angenehm ging das doppelte Spiel <s63395q116 für drei andere V-Män-ner im Schmücker-Komplex s63395q116> aus : Schmücker selbst , statt von " Schwarzer Juni " - Anarchos hauptsächlich von V-Leuten umgeben , bezahlte sein riskantes Indianerspiel im Untergrund <s63395q64 mit dem Leben s63395q64>.
 s63395q64: Womit bezahlte Schmücker selbst, statt von "Schwarzer Juni" Anarchos hauptsächlich von V-Leuten umgeben, sein riskantes Indianerspiel im Untergrund?
+s63395q116: Für wen ging das doppelte Spiel weniger angenehm aus?
 
-s63396: <s63396q65 Götz Tilgner , ein weiterer V-Mann im " Schwarzen Juni " s63396q65>, starb noch vor Eröffnung des ersten Schmücker-Prozesses unter dubiosen Umständen <s63396q66 an einer Tablettenvergiftung s63396q66>.
+s63396: <s63396q65 <s63395q116 Götz Tilgner , ein weiterer V-Mann im " Schwarzen Juni " s63395q116> s63396q65>, starb noch vor Eröffnung des ersten Schmücker-Prozesses unter dubiosen Umständen <s63396q66 an einer Tablettenvergiftung s63396q66>.
 s63396q65: Wer starb noch vor der Eröffnung des ersten Schmücker-Prozesses unter dubiosen Umständen an einer Tablettenvergiftung?
 s63396q66: Woran starb Götz Tilgner, ein weiterer V-Mann im "Schwarzer Juni", noch vor der Eröffnung des ersten Schmücker-Prozesses unter dubiosen Umständen?
 
-s63397: <s63397q67 Der Mitangeklagte und Kronzeuge der Anklage Jürgen Bodeux , ebenfalls ein Informant des Verfassungsschutzes s63397q67>, mußte zweieinhalb Jahre seiner fünfjährigen Haftstrafe absitzen .
+s63397: <s63397q67 <s63395q116 Der Mitangeklagte und Kronzeuge der Anklage Jürgen Bodeux , ebenfalls ein Informant des Verfassungsschutzes s63395q116> s63397q67>, mußte zweieinhalb Jahre seiner fünfjährigen Haftstrafe absitzen .
 s63397q67: Wer musste zweieinhalb Jahre seiner fünfjährigen Haftstrafe absitzen?
 
-s63398: <s63398q68 Der nun enttarnte fünfte im Bunde , Christian Hain s63398q68>, gehörte ebenso wie seine vier V-Kollegen <s63398q69 zum engeren Kreis um die Hauptangeklagte im Schmücker-Verfahren , Ilse Schwipper s63398q69>.
+s63398: <s63398q68 Der nun enttarnte fünfte im Bunde , Christian Hain s63398q68>, gehörte ebenso wie seine vier V-Kollegen <s63398q69 zum engeren Kreis um die Hauptangeklagte im Schmücker-Verfahren , <s63398q117 Ilse Schwipper s63398q117> s63398q69>.
 s63398q68: Wer gehörte ebenso wie seine vier V-Kollegen zum engeren Kreis um die Hauptangeklagte im Schmücker-Verfahren, Ilse Schwipper?
 s63398q69: Wozu gehörte der nun enttarnte fünfte im Bunde ebenso wie seine vier V-Kollegen?
+s63398q117: Wer war die Hauptangeklagte im Schmücker-Verfahren? 
 
 s63399: Schon bevor Hain 1972 von Wolfsburg nach Berlin übersiedelte , kannte er Ilse Schwipper <s63399q70 " aus der gemeinsamen politischen Arbeit in Wolfsburg " s63399q70> , berichtet er der taz in einem Interview .
-s63399q70: Woher kannte Hain Ilse Schwipper schon bevor er 1972 von WOlfsburg nach Berlin übersiedelte?
+s63399q70: Woher kannte Hain Ilse Schwipper schon bevor er 1972 von Wolfsburg nach Berlin übersiedelte?
 
 s63400: Nach ihrer Festnahme im August 1974 war es <s63400q71 Ilse Schwipper selbst s63400q71>, die <s63400q72 ihrem Rechtsanwalt Heinisch s63400q72> den Jurastudenten Hain als tatkräftige Unterstützung für seine Rechtsanwaltskanzlei empfahl .
 s63400q71: Wer war es die ihrem Rechstanwalt Heinisch den Jurastudenten Hain als tatkräftige Unterstützung für seine Rechtsanwaltskanzlei empfahl?
@@ -189,7 +196,7 @@ s63405: Da war <s63405q79 Hain s63405q79> mittendrin " , so der Genosse weiter .
 s63405q79: Wer war da mittendrin?
 
 s63406: Ein anderer Genosse , der Hain <s63406q80 aus seinen Aktivitäten von Mitte der siebziger bis Anfang der achtziger Jahre in West-Berlin s63406q80> kennt :
-s63406q80: Woher kennt ein andere Genosse Hain?
+s63406q80: Woher kennt ein anderer Genosse Hain?
 
 s63407: " Wenn der Hain wirklich V-Mann war , dann muß man <s63407q81 die Geschichte über bestimmte Teile der militanten Linken s63407q81> neu schreiben . "
 s63407q81: Was muss man neu schreiben, wenn der Hain wirklich V-Mann war?
@@ -216,10 +223,10 @@ s63413q88: Wer staunte nicht schlecht, als ihm der Staatsschutz Fotos seiner Kon
 s63412q89: Wann staunte der sich in völliger Konspiration wähnende Genosse nicht schlecht?
 
 s63414: Der Beamte bemerkte dazu :
-s63414qXYZ
+s63414q90: Was bemerkte der Beamte dazu?
 
 s63415: <s63415q90 " Was immer Sie auch vorhaben , lassen Sie es sein , wir sind Ihnen auf der Spur . " s63415q90>
-s63415q90: Was bemerkte der Beamte dazu?
+s63415qXYZ
 
 s63416: Damit war diese Aktion gestorben , <s63416q91 der Argwohn gegen Hain in der Szene s63416q91> allerdings gewachsen .
 s63416q91: Was war damit gewachsen?
@@ -273,7 +280,8 @@ s63430q108: Wer hat eine steilere Karriere zu verzeichnen?
 s63431: Über den Posten eines Senatsdirektors avancierte Müllenbrock <s63431q109 bis zum Staatssekretär beim Innensenat s63431q109>.
 s63431q109: Bis zu was avancierte Müllenbrock über den Posten eines Senatsdriektors?
 
-s63432: Przytarski seinerseits erklomm immerhin <s63432q110 den Posten des Vizechefs des Landesamtes für Verfassungsschutz s63432q110>, bis er wegen seiner Verwicklung in den Berliner Bauskandal vor einem Jahr <s63432q111 auf den gleichwertig dotierten Posten des Direktors des Landesverwaltungsamtes s63432q111> versetzt wurde .
+s63432: Przytarski seinerseits erklomm immerhin <s63432q110 den Posten des Vizechefs des Landesamtes für Verfassungsschutz s63432q110>, bis er <s63432q118 wegen seiner Verwicklung in den Berliner Bauskandal s63432q118> vor einem Jahr <s63432q111 auf den gleichwertig dotierten Posten des Direktors des Landesverwaltungsamtes s63432q111> versetzt wurde .
 s63432q110: Was erklomm Przytarski immerhin?
 s63432q111: Wohin wurde er wegen seiner Verwicklung in den Berliner Bauskandal vor einem Jahr versetzt?
+s63432q118: Weswegen wurde Przytarski versetzt?
 
