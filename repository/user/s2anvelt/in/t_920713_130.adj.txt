@@ -1,0 +1,333 @@
+s30663: "<s30663q002 Politik s30663q002> nicht erst, <s30663q001 wenn alles brennt s30663q001> "
+s30663q001: Wann nicht?
+s30663q002: Was ?
+
+s30664: <s30664q003 10 Jahre s30664q003> Forschungsstelle : <s30664q004 Wolfgang Eichwede s30664q004> über <s30664q005 alte Fehler und neue Herausforderungen an die Ostpolitik s30664q005>
+s30664q003: Wie lange existiert die Forschungsstelle?
+s30664q004: Wer ?
+s30664q005: Über was?
+
+s30665: <s30665q006 Im Mai 1982 s30665q006> wurde mit der <s30666q011 Forschungsstelle Osteuropa s30666q011> <s30666q008 eines der umstrittensten aber auch populärsten s30666q008> <s30666q007 Institute s30666q007> <s30666q009 der Bremer Uni s30666q009> <s30666q010 eröffnet s30666q010>.
+s30665q006: Wann wurde das Institut eröffnet?
+s30666q007: Was wurde eröffnet?
+s30666q008: Wie ist das Institut?
+s30666q009: Zu welcher Universität gehört das Institut?
+s30666q010: Was wurde mit dem Institut gemacht?
+s30666q011: Wie heißt das Institut?
+
+s30666: <s30666q012 Die taz s30666q012><s30666q016 sprach s30666q016><s30666q013 mit dem <s30666q015 Gründervater und Direktors 30666q015> <s30666q014 Wolfgang Eichwede s30666q014> s30666q013> .
+s30666q012: Wer sprach mit dem Gründervater und Direktor Wolfgang Eichwede?
+s30666q013: Mit wem sprach die taz?
+s30666q014: Wie heißt der Gründervater und Direktor?
+s30666q015: Welche Funktion hat Wolfgang Eichwede?
+s30666q016: Was tat die taz?
+
+s30667: taz : Hat <s30667q017 die Forschungsstelle s30667q017> nach <s30667q017 dem Zusammenbruch des sowjetischen Imperiums s30667q017> noch etwas zu tun ?
+s30667q017: Wer hat noch etwas zu tun?
+s30667q018: Nach was hat die Forschungsstelle noch etwas zu tun?
+
+s30668: Bitte <s30668q019 den Mann s30668q019>
+s30668q019: Bitte wen?
+
+s30669: <s30669q020 Wolfgang Eichwede s30669q020>: <s30669q021 Die Arbeit s30669q021> <s30669q022 der Forschungsstelle s30669q022> <s30669q025 hat sich s30669q025><s30669q024 mit dem Wandel des Gegenstandes s30669q024><s30669q023 im positiven und schönen Sinne s30669q023> <s30669q025 verändert s30669q025> .
+s30669q020: Wer spricht?
+s30669q021: Was hat sich verändert?
+s30669q022: Wessen Arbeit?
+s30669q023: Wie hat es sich verändert?
+s30669q024: Im Zuge wessen hat sich die Arbeit verändert?
+s30669q025: Was hat die Arbeit gemacht?
+
+s30670: <s30670q026 Wir s30670q026> hatten <s30670q027 in den frühen Jahren s30670q027> <s30670q028 mit der Analyse des Untergrundes s30670q028> <s30670q029 einen genauso spannenden Gegenstand wie heute , aber einen umgrenzten s30670q029> .
+s30670q026: Wer hatte?
+s30670q027: Wann hatten sie?
+s30670q028: Mit was hatten sie einen spannenden (Untersuchungs-)Gegenstand?
+s30670q029: Was hatten sie?
+
+s30671: <s30671q030 Jetzt s30671q030> wollen wir <s30671q031 <s30671q032 die Widersprüchlichkeit s30671q032> erforschen , <s30671q032 mit der sich dort die Bildung einer bürgerlichen Gesellschaft vollzieht oder das , was eine bürgerliche Gesellschaft werden soll s30671q032> s30671q031>.
+s30671q030: Wann wollen sie?
+s30671q031: Was wollen sie?
+s30671q032: Was erforschen sie?
+
+s30672: <s30672q033 Vor 20 Jahren s30672q033> haben wir <s30672q034 von Übergangsgesellschaften vom Kapitalismus zum Sozialismus s30672q034> <s30672q035 gesprochen s30672q035>.
+s30672q033: Wann haben sie gesprochen?
+s30672q034: Von was haben sie gesprochen?
+s30672q035: Was haben sie?
+
+s30673: <s30673q036 Heute s30673q036> sprechen <s30673q039 wir s30673q039> <s30673q037 von Transformationsgesellschaften vom Sozialismus zum Kapitalismus s30673q037>, <s30673q038 als ob man den Weg schon wisse s30673q038>.
+s30673q036: Wann sprechen sie?
+s30673q037: Von was sprechen sie?
+s30673q038: Wie sprechen sie darüber?
+s30673q039: Wer spricht?
+
+s30674: <s30674q040 Ich s30674q040> denke , <s30674q042 <s30674q043 der Prozeß s30674q043> ist sehr viel offener , als der Begriff Transformation suggeriert s30674q042>.
+s30674q040: Wer denkt?
+s30674q042: Was denkt er?
+s30674q043: Was ist offener?
+
+s30675: <s30675q044 Die Kontakte in den Osten s30675q044> gehen auch <s30675q045 auf den Aufbau des Untergrund-Archivs s30675q045> zurück .
+s30675q044: Was geht auf den Aufbau zurück?
+s30675q045: Auf wessen Aufbau gehen die Kontakte zurück?
+
+s30676: Was ist <s30675q048 das Material s30675q048> noch wert , wenn sich herausstellt , <s30675q047 daß <s30676q046 die Geheimdienste s30676q046> in der Dissidentenszene mitgemischt haben s30675q047>?
+s30676q046: Wer hat in der Dissidentenszene mitgemischt?
+s30676q047: Was stellt sich heraus?
+s30676q048: Was ist noch etwas wert?
+
+s30677: Auch ein <s30677q050 durch die Stasi s30677q050><s30677q049 gefälschtes Untergrunddokument s30677q049> <s30677q051 ist ein spannendes Dokument s30677q051>.
+s30677q049: Was ist ein spannendes Dokument?
+s30677q050: Ein durch wen gefälschtes Untergrunddokument ist auch ein spannendes Dokument?
+s30677q051: Was ist ein gefälschtes Untergrunddokument?
+
+s30678: <s30678q052 Es s30678q052> sagt <s30678q054 viel s30678q054><s30678q053 über den Staat oder die Gesellschaft s30678q053> aus .
+s30678q052: Was sagt viel aus?
+s30678q053: Über was sagt es viel aus?
+s30678q054: Wie sagt es aus?
+
+s30679: Wenn <s30679q055 die Stasi s30679q055> sich gezwungen gesehen hat , <s30679q056 so in die Opposition hinein zu wirken s30679q056>, zeigt <s30679q057 das s30679q057>etwas <s30679q059 über den Grad der Instabilität <s30679q058 der Gesellschaft s30679q058>s30679q059>.
+s30679q055: Wenn wer sich gezwungen gesehen hat?
+s30679q056: Wenn sich die Stasi wozu gezwungen gesehen hat?
+s30679q057: Was zeigt etwas über den Grad der Instabilität?
+s30679q058: Wessen Instabilität?
+s30679q059: Worüber zeigt das etwas?
+
+s30680: <s30680q060 In diesem Sinne s30680q060> hat das Dokument <s30679q061 einen Aussagewert s30679q061> , auch wenn es <s30679q062 an Authentizität s30679q062> verliert .
+s30680q060: In welchem Sinne?
+s30679q061: Was hat das Dokument?
+s30679q062: Was verliert das Dokument?
+
+s30681: <s30681q064 Je komplexer die Zusammenhänge s30681q064>, <s30681q063 umso toller können sich die Forscher austoben s30681q063>.
+s30681q063: Was geschieht bei komplexeren Zusammenhängen?
+s30681q064: Wann können sich die Forscher umso toller austoben?
+
+s30682: Es gibt <s30681q066 KGB und Stasi-Dokumente s30681q066> auch über <s30682q065 die Forschungsstelle s30682q065>.
+s30682q065: Worüber gibt es KGB und Stasi-Dokumente?
+s30681q066: Welche Dokumente gibt es auch über die Forschungsstelle?
+
+s30683: Gab es <s30681q068 in Ihrem Umfeld s30681q068><s30683q067 einen IM s30683q067>?
+s30683q067: Was gab es in ihrem Umfeld?
+s30681q068: Wo gab es einen IM?
+
+s30684: Es gibt nichts <s30684q069 genaueres s30684q069>.
+s30684q069: Was gibt es nicht?
+
+s30685: <s30684q073 Wir s30684q073>wissen , <s30685q070 daß wir <s30684q072 beim ein oder anderen Geheimdienst s30684q072><s30684q071 einen gewissen Rang s30684q071> hatten s30685q070>.
+s30685q070: Was wissen sie?
+s30684q071: Was hatten sie beim ein oder anderen Geheimdienst?
+s30684q072: Bei wem hatten sie einen gewissen Rang?
+s30684q073: Wer weiß?
+
+s30686: <s30686q075 Wir s30686q075> wissen , daß es <s30686q074 einige s30686q074> gegeben haben muß , <s30686q074 die nicht schlecht <s30686q076 über das Institut und seine Mitarbeiter s30686q076> Bescheid gewußt haben s30686q074>.
+s30686q074: Was muss es gegeben haben?
+s30686q075: Wer weiß, dass es einige gegeben haben muss?
+s30686q076: Über was wussten sie Bescheid?
+
+s30687: <s30686q078 Das s30686q078> ergibt aber noch kein <s30687q077 Gesamtbild s30687q077>.
+s30687q077: Was ergibt es nicht?
+s30686q078: Was ergibt noch kein Gesamtbild?
+
+s30688: <s30688q081 Wir s30688q081> haben <s30688q082 immer s30688q082> ein <s30688q079 Maximum <s30688q080 an Offenheit s30688q080> s30688q079> praktiziert .
+s30688q079: Was haben sie praktiziert?
+s30688q080: Ein Maximum an was haben sie praktiziert?
+s30688q081: Wer hat praktiziert?
+s30688q082: Wann haben sie praktiziert?
+
+s30689: Bis auf <s30689q083 ganz wenige Dokumente s30689q083> war alles <s30689q084 zugängig s30689q084>.
+s30689q083: Bis auf was war alles zugängig?
+s30689q084: Was war alles bis auf ganz wenige Dokumente?
+
+s30690: <s30690q085 Das Spionieren s30690q085> zeigt <s30689q087 in gewisser Weise s30689q087> <s30689q086 die Blödheit dieser Systeme s30689q086>.
+s30690q085: Was zeigt die Blödheit dieser Systeme?
+s30689q086: Was zeigt das Spionieren?
+s30689q087: In welcher Weise zeigt das Spionieren die Blödheit dieser Systeme?
+
+s30691: <s30691q088 Das Institut s30691q088> hat <s30691q090 erhebliche politische s30691q090><s30691q089 Schwierigkeiten s30691q089> <s30691q091 in der Gründungsphase s30691q091> gehabt .
+s30691q088: Was hat erhebliche Schwierigkeiten gehabt?
+s30691q089: Was hat das Institut gehabt?
+s30691q090: Welche Schwierigkeiten hat das Institut gehabt?
+s30691q091: Wann hat das Institut Schwierigkeiten gehabt?
+
+s30692: <s30692q092 Bremen s30692q092>hatte <s30692q094 in der Frage der Forschungsstelle s30692q094> <s30692q095 Schwierigkeiten s30692q095> <s30692q096 mit Polen s30692q096>, <s30692q093 weil <s30692q098 die polnische Seite s30692q098> <s30692q097 eine subversive Institution s30692q097> gesehen hat s30692q093> .
+s30692q092: Wer hatte Schwierigkeiten mit Polen?
+s30692q093: Warum hatte Bremen Schwierigkeiten mit Polen?
+s30692q094: In welcher Frage hatte Bremen Schwierigkeiten mit Polen?
+s30692q095: Was hatte Bremen mit Polen?
+s30692q096: Mit wem hatte Bremen Schwierigkeiten?
+s30692q097: Was hat die polnische Seite gesehen?
+s30692q098: Wer hat eine subversive Institution gesehen?
+
+s30693: <s30693q099 Die Verrücktheit s30693q099><s30692q100 der damaligen Situation s30692q100>läßt sich <s30692q101 an einem Beispel s30692q101>demonstrieren : <s30692q103 Ich s30692q103>hatte <s30692q102 eine Gesprächspartnerin aus Polen s30692q102>, <s30692q104 die s30692q104>mir <s30692q106 die formellen Proteste ihrer Regierung s30692q106> überbrachte und mich dringend aufforderte ,<s30692q105 die Arbeit einzustellen s30692q105>.
+s30693q099: Was lässt sich an einem Beispiel demonstrieren?
+s30692q100: Die Verrücktheit welcher Situation lässt sich an einem Beispiel demonstrieren?
+s30692q101: An was lässt sich die Verrücktheit der damaligen Situation demonstrieren?
+s30692q102: Was hatte er?
+s30692q103: Wer hatte eine Gesprächspartnerin aus Polen?
+s30692q104: Wer überbrachte die formellen Proteste ihrer Regierung?
+s30692q105: Zu was forderte die Gesprächspartnerin aus Polen ihn auf?
+s30692q106: Was überbrachte die Gesprächspartnerin aus Polen?
+
+s30694: <s30692q109 Dann s30692q109> fragte <s30694q107 sie s30694q107>, <s30692q108 ob <s30692q110 das offizielle Gespräch s30692q110> beendet werden könne und <s30692q111 der inoffizielle Teil s30692q111> begonnen habe s30692q108>.
+s30694q107: Wer fragte?
+s30692q108: Was fragte sie?
+s30692q109: Wann fragte sie?
+s30692q110: Welches Gespräch könne beendet werden?
+s30692q111: Welcher Teil habe begonnen?
+
+s30695: <s30695q112 Ich s30695q112> sagte , wenn <s30692q113 sie s30692q113> das wolle , gerne .
+s30695q112: Wer sagte?
+s30692q113: Wenn wer wolle?
+
+s30696: Dann <s30692q116 sie s30692q116>: Fahren <s30692q117 Sie s30692q117> fort <s30696q114 zu sammeln s30696q114>, vergessen <s30692q117 Sie s30692q117><s30692q115 alles , was ich gesagt habe s30692q115>.
+s30696q114: Womit soll er fortfahren?
+s30692q115: Was soll er vergessen?
+s30692q116: Wer spricht?
+s30692q117: Wer soll fortfahren und vergessen?
+
+s30697: <s30697q118 Der Widerstand s30697q118> kam <s30692q119 nicht nur aus Polen s30692q119>, sondern es gab auch <s30692q120 Bedenken s30692q120> <s30692q121 innerhalb Bremens und der Bundesrepublik s30692q121> , auch wenn <s30692q122 Koschnick und Brandt s30692q122> letztlich durchgesetzt haben und <s30692q123 das Institut gegründet s30692q123> wurde .
+s30697q118: Was kam nicht nur aus Polen?
+s30692q119: Woher kam der Widerstand?
+s30692q120: Was gab es innerhalb Bremens und der Bundesrepublik?
+s30692q121: Wo gab es Bedenken?
+s30692q122: Wer setzte sich durch?
+s30692q123: Was wurde gegründet?
+
+s30698: <s30698q124 Diese Bedenken s30698q124> hatten <s30698q125 einen gutmütigen Hintergrund s30698q125> und man muß <s30698q126 mildernde Umstände s30698q126>gelten lassen .
+s30698q124: Welche Bedenken hatten einen gutmütigen Hintergrund?
+s30698q125: Was hatten diese Bedenken?
+s30698q126: Was muss man gelten lassen?
+
+s30699: <s30698q129 Man s30698q129> fürchtete , <s30699q127 die Entspannungspolitik könne gefährdet werden s30699q127>, <s30698q128 wenn hier die Opposition analysiert wird s30698q128>.
+s30699q127: Was fürchtete man?
+s30698q128: Wann könne die Entspannungspolitik gefährdet werden?
+s30698q129: Wer fürchtete, die Entspannungspolitik könne gefährede werden?
+
+s30700: <s30700q130 Insofern s30700q130> war <s30700q131 das Motiv s30700q131> <s30700q132 ehrenwert s30700q132>.
+s30700q130: Inwiefern war das Motiv ehrenwert?
+s30700q131: Was war ehrenwert?
+s30700q132: Wie war das Motiv?
+
+s30701: Der mildernde Umstand ist ,<s30701q133 daß <s30700q134 die Kritiker  s30700q134> bemerkenswert wenig <s30700q135 über die Länder Osteuropas gewußt haben s30700q135> s30701q133>.
+s30701q133: Was ist der mildernde Umstand?
+s30700q134: Wer wusste bemerkenswert wenig?
+s30700q135: Über was wussten die Kritiker bemerkenswert wenig?
+
+s30702: Obwohl <s30700q137 sie s30700q137> <s30702q136 für Entspannung s30702q136>eintraten und damit <s30700q138 Öffnung s30700q138>wollten ,<s30700q140 blockierten sie sich s30700q140><s30700q139 gegen eigene Lernprozesse s30700q139>.
+s30702q136: Für was traten sie ein?
+s30700q137: Wer trat für Entspannung ein?
+s30700q138: Was wollten sie?
+s30700q139: Gegen was blockierten sie sich?
+s30700q140: Was taten sie, obwohl sie für Entspannung eintraten?
+
+s30703: <s30703q141 Man s30703q141>war <s30703q143 für das friedliche Verhältnis s30703q143> <s30703q142 zwischen den Staaten s30703q142> und hat ignoriert ,<s30703q144 daß die Staaten " Krieg <s30703q145 mit ihrem eigenen Volk s30703q145> " geführt haben s30703q144>, wie es <s30703q146 der frühere Heizer und spätere Außenminister Jiri Dienstbier s30703q146> formuliert hat .
+s30703q141: Wer war für das friedliche Verhältnis?
+s30703q142: Zwischen wem sollte das friedliche Verhältnis bestehen?
+s30703q143: Für was war man?
+s30703q144: Was hat man ignoriert?
+s30703q145: Mit wem führten die Staaten Krieg?
+s30703q146: Wer formulierte es? 
+
+s30704: Hebt <s30704q147 das s30704q147>nicht <s30703q148 die mildernden Umstände s30703q148> auf ?
+s30704q147: Was hebt die mildernden Umstände nicht auf?
+s30703q148: Was wird aufgehoben?
+
+s30705: <s30705q149 Das s30705q149> rührt <s30703q151 an ein Grundproblem s30703q151> <s30703q150 der letzten 20 Jahre s30703q150>.
+s30705q149: Was rührt an ein Grundproblem?
+s30703q150: Welcher Jahre ist das Grundproblem?
+s30703q151: An was rührt das?
+
+s30706: <s30706q152 Ich s30706q152> habe mich <s30706q153 mit Leib und Seele s30706q153> <s30706q154 für die Brandtsche Ostpolitik s30706q154> engagiert .
+s30706q152: Wer hat sich engagiert?
+s30706q153: Wie hat er sich engagiert?
+s30706q154: Für was hat er sich engagiert?
+
+s30707: <s30707q155 Viele s30707q155> haben dann <s30707q157 in der 80er Jahren s30707q157>übersehen , daß es <s30707q156 in Osteuropa s30707q156><s30707q158 Änderungen s30707q158>gegeben hat , die diesen zwischenstaatlichen Prozeß von innen her überholt haben .
+s30707q155: Wer hat übersehen, daß es in Osteuropa Änderungen gegeben hat? 
+s30707q156: Wo hat es Änderungen gegeben?
+s30707q157: Wann wurde übersehen, dass es in Osteuropa Änderungen gegeben hat?
+s30707q158: Was hat es in Osteuropa gegeben?
+
+s30708: <s30708q159 Die Politik der kleinen Schritte s30708q159>, <s30708q160 nur auf die staatliche Ebene s30708q160> beschränkt , hat sich <s30708q161 als unzureichend oder als falsch s30708q161> entpuppt .
+s30708q159: Welche Politik hat sich als unzureichend oder als falsch entpuppt?
+s30708q160: Auf was ist die Politik der kleinen Schritte beschränkt?
+s30708q161: Als was hat sich die Politik der kleinen Schritte entpuppt?
+
+s30709: <s30709q162 Was Anfang der 70er Jahre richtig war und viel bewegt hat bis hin zum KSZE-Proze s30709q162>, ist in den 80ern erstarrt ,<s30709q163 zum Irrtum und schließlich zu einer blockierenden Politik geworden s30709q163>.
+s30709q162: Was ist in den 80ern erstarrt?
+s30709q163: Zu was wurde das in den 80ern erstarrte?
+
+s30710: <s30710q165 Man s30710q165> hätte in Rechnung stellen müssen ,<s30710q164 daß die Systeme mit denen man sich " vertragen " muß , gleichzeitig im Konflikt <s30710q166 mit ihren eigenen Gesellschaften s30710q166> liegen s30710q164>.
+s30710q164: Was hätte man in Rechnung stellen müssen?
+s30710q165: Wer hätte in Rechnung stellen müssen?
+s30710q166: Mit wem liegen die System im Konflikt?
+
+s30711: Was wären die Eckpunkte <s30711q167 einer neuen Ostpolitik s30711q167>?
+s30711q167: Wessen Eckpunkte?
+
+s30712: <s30712q168 Wir s30712q168> haben es <s30712q169 mit einem Prozeß s30712q169> zu tun , der sich in<s30712q171 Größenordnungen s30712q171>bewegt , <s30712q170 die nur sehr schwer von der Diplomatie zu erreichen sind s30712q170>.
+s30712q168: Wer hat es mit einem Prozess zu tun?
+s30712q169: Mit was haben sie es zu tun?
+s30712q170: In welcher Größenordnung bewegt sich der Prozess?
+s30712q171: Was ist nur schwer von der Diplomatie zu erreichen?
+
+s30713: <s30713q172 Diese Prozesse s30713q172>sind von einer derartigen Dynamik und Widersprüchlichkeit ,<s30713q173 daß sie von außen nicht einmal durch einen noch so virtuos Pirouetten drehenden Hans-Dietrich Genscher erreicht werden können s30713q173>.
+s30713q172: Was ist von einer derartigen Dynamik und Widersprüchlichkeit?
+s30713q173: Von welcher Dynamik und Widersprüchlichkeit sind diese Prozesse?
+
+s30714: <s30714q176 Wir s30714q176>waren <s30714q177 viel zu lange s30714q177><s30714q174 auf Gorbatschow s30714q174>konzentriert ,<s30714q175 auch , als es schon nichts mehr zu stabilisieren gab s30714q175>.
+s30714q174: Auf wen waren sie viel zu lange konzentriert?
+s30714q175: Wann waren sie auch auf Gorbatschow konzentriert?
+s30714q176: Wer war viel zu lange auf Gorbatschow konzentriert?
+s30714q177: Wie waren sie auf Gorbatschow konzentriert?
+
+s30715: <s30715q178 Wir s30715q178>haben <s30715q182 eine Menge Geld s30715q182><s30715q180 in die alten Strukturen gegeben s30715q180>, das <s30715q181 uns s30715q181><s30715q179 heute s30715q179>fehlt .
+s30715q178: Wer hat eine Menge Geld in die Strukturen gegeben?
+s30715q179: Wann fehlt ihnen das Geld?
+s30715q180: In was haben sie Geld gegeben?
+s30715q181: Wem fehlt das Geld? 
+s30715q182: Was haben sie in die alten Strukturen gegeben?
+
+s30716: <s30716q183 Vor Jahren s30716q183>hätten <s30716q183 wir uns s30716q183><s30716q187 intensiv s30716q187>bemühen müssen , <s30716q185 zu den einzelnen nationalen Eliten Kontakte aufzunehmen s30716q185>,<s30716q183 und nicht erst dann , als diese Eliten schon an der Macht waren s30716q183>.
+s30716q183: Wann hätten sie sich intensiv bemühen müssen?
+s30716q184: Wer hätte sich intensiv bemühen müssen?
+s30716q185: Zu was hätten sie sich intensiv bemühen müssen?
+s30716q186: Wie hätten sie sich bemühen müssen?
+
+s30717: <s30717q186 Die risikoscheue Politik ohne Inneninformationen s30717q186> hat sich <s30717q187 bitter s30717q187> gerächt .
+s30717q186: Welche Politik hat sich gerächt?
+s30717q187: Wie hat sich die Politik gerächt??
+
+s30718: <s30718q188 Heute s30718q188>steht <s30718q189 man s30718q189><s30718q190 hilflos s30718q190><s30718q191 vor Prozessen wie vor Personen s30718q191>.
+s30718q188: Wann steht man hilflos vor Prozessen wie vor Personen?
+s30718q189: Wer steht hilflos vor Prozessen wie vor Personen?
+s30718q190: Wie steht man vor Prozessen wie vor Personen?
+s30718q191: Wo steht man heute?
+
+s30719: <s30719q192 Die westliche Welt s30719q192>müßte <s30719q194 in sehr viel größerem Umfang s30719q194><s30719q193 zum Engagement s30719q193> bereit sein .
+s30719q192: Wer müsste bereit sein?
+s30719q193: Zu was müsste die westliche Welt bereit sein?
+s30719q194: In welchem Umfang müsste die westliche Welt zum Engagement bereit sein?
+
+s30720: <s30720q195 24 Milliarden Dollar s30720q195>sind <s30720q197 alles in allem s30720q197>lächerlich <s30720q196 angesichts der Dimension der Probleme s30720q196>.
+s30720q195: Was ist lächerlich?
+s30720q196: Angesichts wessen sind 24 Milliarden Dollar lächerlich?
+s30720q197: Wie sind sie lächerlich?
+
+s30721: <s30721q198 Gleichzeitig s30721q198>müßte man <s30721q199 in einer Reihe von politischen Fragen s30721q199><s30721q202 Positionen s30721q202>formulieren , die <s30721q200 nicht verletzt werden s30721q200>dürfen :<s30721q201 Menschenrechte , Minderheitenschutz , Autonomieregelungen s30721q201>.
+s30721q198: Wann müsste man formulieren?
+s30721q199: Wie müsste man formulieren?
+s30721q200: Was dürfen die Positionen nicht?
+s30721q201: Welche Positionen dürfen nicht verletzt werden?
+s30721q202: Was müsste man formulieren?
+
+s30722: <s30722q203 Mit Prinzipien , die auch für den Partner kalkulierbar sind s30722q203>, hätte <s30722q206 man s30722q206><s30722q205 eine Möglichkeit s30722q205>,<s30722q204 Einfluß zu nehmen s30722q204>.
+s30722q203: Mit welchen Prinzipien hätte man eine Möglichkeit, Einfluß zu nehmen?
+s30722q204: Welche Möglichkeit hätte man mit kalkulierbaren Prinzipien?
+s30722q205: Was hätte man mit kalkulierbaren Prinzipien?
+s30722q206: Wer hätte?
+
+s30723: <s30723q207 Wenn alles brennt s30723q207>, ist das nicht mehr <s30723q208 möglich s30723q208>.
+s30723q207: Wann ist das nicht mehr möglich?
+s30723q208: Was ist es nicht mehr, wenn alles brennt?
+
+s30724: Fragen : Jochen Grabler
+s30724qXYZ
+
