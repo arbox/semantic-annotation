@@ -1,0 +1,108 @@
+LemmaDE				LemmaENG			Frame				
+
+Jahr				year				Measure_Duration	q1
+Wolfgang Eichwede	Wolfgang Eichwede	Communication		q2
+Politik				policy				Law					q3
+Mai					may					Calendric_unit		q4
+Institut			institute			Local_by_use		q5
+Wolfgang Eichwede	Wolfgang Eichwede	Communication		q6
+taz					taz					Text				q7
+Direktor			director			People_by_Vocation	q107
+Arbeit				work				Work				q8
+Jahr				year				Measure_Duration	q10
+Forschungsstelle	institute			Local_by_use		q11
+Analyse				analysis			Scrutiny			q108
+Forschungsstelle	institute			Local_by_use		q12
+Widersprüchlichkeit	contrariness		Compliance			q109
+vor					ago					Time_vector			q13
+Gesellschaft		society				Organization		q14
+heute				today				Calendric_unit		q15
+Gesellschaft		society				Organization		q16
+Wolfgang Eichwede	Wolfgang Eichwede	Opinion				q17
+Aufbau				set-up				Intentionally_createq18
+Kontakt				contact				Communication		q19
+mitmischen			intervene			N.A.				q20
+Dokument			document			Documents			q22
+Stasi				Stasi				N.A.				q110
+Dokument			document			Documents			q23
+Gesellschaft		society				Organization		q24
+zwingen				force				Causation			q25
+Forscher			researcher			People_by_Vocation	q27
+Zusammenhang		relation			Relation			q111
+Forschungsstelle	institute			Local_by_use		q28
+Dokument			document			Documents			q112
+Forschungsstelle	institute			Local_by_use		q30
+Forschungsstelle	institute			Local_by_use		q31
+Forschungsstelle	institute			Local_by_use		q32
+Institut			institute			Local_by_use		q33
+Offenheit			candidness			Candidness			q34
+Forschungsstelle	institute			Local_by_use		q35
+Dokument			document			Documents			q36
+Blödheit			stupidity			Mental_property		q37
+Spionieren			spy					Becoming_aware		q38
+Institut			institute			Local_by_use		q39
+Schwierigkeiten		difficulty			Difficulty			q40
+Gründung			found				Intentionally_createq41
+Bremen				Bremen				Political_locales	q42
+Institut			institute			Local_by_use		q43
+Polen				Poland				Political_locales	q44
+subversiv			subversive			Subversion			q45
+Verücktheit			crazyness			Mental_property		q46
+Wolfgang Eichwede	Wolfgang Eichwede	Communication		q47
+überbringen			deliver				Delivery			q48
+Gesprächspartner	speaker				Chatting			q49
+Gespräch			conversation		Chatting			q50
+Polen				Poland				Political_locales	q53
+Koschnick & Brandt	Koschnick & Brandt	Enforcing			q54
+Institut			institute			Local_by_use		q113
+Bedenken			worry				Worry				q55
+Umstand				circumstance		N.A.				q56
+gefährden			endanger			Endangering			q57
+analysieren			analysis			Scrutiny			q58
+Motiv				motive				Reason				q114
+wissen				know				Awareness			q60
+Kritiker			critic				Judgment_communication	q61
+Lernprozesse		learn				Becoming_aware		q62
+Entspannung			relaxation			N.A.				q115
+Krieg				war					Hostile_encounter	q63
+Jiri Dienstbier		Jiri Dienstbier		Expressing_puplicly	q64
+Minister			secretary			People_by_Vocation	q65
+Verhältnis			relation			Relation			q66
+Wolfgang Eichwede	Wolfgang Eichwede	Commitment			q67
+Politik				policy				Law					q68
+Änderung			change				Undergo_change		q69
+Jahr				year				Measure_duration	q70
+Politik				policy				Law					q80
+unzureichend		insufficient		Sufficiency			q81
+Ebene				level				N.A.				q116
+Irrtum				mistake				N.A.				q83
+Konflikt			conflict			Hostile_encounter	q84
+Gesellschaft		society				Organization		q85
+Prozess				process				Process				q86
+Hans-Dietrich Genscher	Hans-Dietrich Genscher	N.A.		q88
+Gorbatschow			Gorbatschow			Scrutiny			q89
+als					when				Temporal_collocation	q117
+Geld				money				Money				q90
+Struktur			structure			N.A.				q118
+vor					ago					Time_vector			q92
+Kontakt				contact				Communication		q93
+Politik				policy				Law					q94
+Prozess				process				Process				q95
+heute				today				Calendric_unit		q96
+Westliche Welt		western world		Political_locales	q97
+Engagement			commitment			Commitment			q98
+Dollar				dollar				money				q99
+Position			principle			N.A.				q100
+Menschenrechte		rights				Morality_evaluation	q101
+Prinzipien			principle			N.A.				q102
+Einfluß				influence			Subjective_Influence	q103
+wenn				if					Conditional_occurence	q104
+Einfluß				influence			Subjective_Influence	q105
+Jochen Grabler		Jochen Grabler		Questioning			q106
+
+
+
+
+
+
+
