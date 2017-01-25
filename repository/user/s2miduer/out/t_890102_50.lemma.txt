@@ -1,0 +1,271 @@
+lemma							en								frame
+V-Mann							V-Mann							People_by_vocation
+Verfassungsschutz				protection of the constitution	Government_institution		
+Kanzlei							law office						Building_subparts
+Verteidiger						defender						Trial
+Schmücker-Verfahren				Schmücker Trial 				Trial
+Juni							june							Calendaric_unit
+V-Mann							V-Mann							People_by_vocation
+Berlin							Berlin							Locale
+Verfassungsschutz				protection of the constitution	Government_institution
+Ulrich Schmücker				Ulrich Schmücker				People
+Folgen							consequences					Causation
+Kopfschuss						shot to the head				Committing_crime
+Auftrag							order							Being_obligated
+Amt								department						Government_institution
+militant						militant						Violence
+Gruppe							group							Temporary_group
+Tod								death							Killing
+Gruppe 							group 							Temporary_group
+Schwarzer Juni					Schwarzer Juni					Temporary_group
+Person							person							People
+Ilse Schwipper					Ilse Schwipper					People
+Jahr							year							Calendaric_unit
+Prozeß							trial							Trial
+Revision						appeal							Trial
+Berlin							Berlin							Locale
+Verfassungsschutz				protection of the constitution	Government_institution
+Verwicklung						involvement						Participation					
+Amt								department						Government_institution
+Fall							case							Trial
+Nacht							night							Calendaric_unit
+passieren						happen							Event
+V-Mann							V-Mann							People_by_vocation
+Kanzlei							law office						Building_subparts
+Verteidiger						defender						Trial
+sitzen							sit								Placing
+Rechtsanwalt					lawyer							Person_by_vocation
+Philipp Heinisch				Philipp Heinisch				People
+Verteidiger						defender						Trial
+Schmücker-Verfahren				Schmücker Trial 				Trial
+Frühjahr						spring							Calendaric_unit
+Auskunft						information						Information
+begehren						desire							Desirability
+zutreffen						apply							Information
+Jahr 							year 							Calendaric_unit
+V-Mann							V-Mann							People_by_vocation
+Verfassungsschutz				protection of the constitution	Government_institution
+Kanzlei							law office						Building_subparts
+platzieren						place							Placing
+Organ							organe							Person_by_vocation
+Rechtspflege					administration of justice		Government_institution
+rechtmäßig						lawful							Justifying
+Amtsausübung					excercise of an office			Government_institution
+überwachen						surveil							Scrutiny
+vollmundig					 	full-bodied						Certainty
+Bekenntnis						commitment						Commitment
+Rechtsstaat						constitutional state			Law
+Wagner							Wagner 							People
+Mai								May								Calendaric_unit
+Wagner							Wagner 							People
+Dienstherr						employer						Employing
+Innensenator					senator							People_along_political_spectrum
+Kewenig							Kewenig							People
+Skandal							scandal							Morality_evalutation							
+Vorsitzender					chairperson						Person_by_vocation
+West-Berlin 					West-Berlin						Locale
+Anwaltskammer					chamber of lawyers				Building_subparts
+Jürgen Borck					Jürgen Borck					People
+streng							strict							Social_behaviour_evalutation
+vertraulich						confidential					Trust
+Borck							Borck							People
+Vorwürfe						accusations						Judgement_communication
+Spiegel							Spiegel							Information
+Monat							month							Calendaric_unit
+veröffentlichen					publish							Publishing
+zutreffen						apply							Information
+Alliierte						alliies							Supporting
+Antrag							proposal						Respond_to_proposal
+Verfassungsschutz				protection of the constitution	Government_institution
+Telefonleitungen				telephone line					Communication_means
+Rechstanwaltskanzlei 			lawyer's office					Building_subparts
+Heinisch						Heinisch						People
+anzapfen						tapping							Information
+Schmücker-Verfahren				Schmücker Trial 				Trial
+Juni							June							Calendaric_unit
+Rechtsanwaltsgehilfe			legal assistant					Person_by_vocation
+Linke							left wing						People_along_political_spectrum
+V-Mann							V-Mann							People_by_vocation
+verdächtigen					suspect							Suspicion
+Kewenig-Geständnis				Confession of Kewenig			Reveal_secret	
+enttarnen						expose							Reveal_secret
+Christian Hain					Christian Hain					People
+Deckname						Alias							Being_named
+Flach							Flach							People
+Anwaltskammerpräsident			President of a chamber of lawyersPeople_by_vocation
+Borck							Borck							People
+Hain 							Hain							People
+Spitzelarbeit					spying							Perception_active
+Anwaltskanzlei					law office						Building_subparts
+anwerben						recruit							Employing
+Dienst							service							Being_obligated
+Verfassungsschutz				protection of the constitution	Government_institution
+stehen							stand							Standing_by
+Vertreter						Representative					Representative
+Anklage							accusation						Judgement_communication
+Schmücker-Prozeß				Trial of Schmücker				Trial
+Staatsanwalt					lawyer							People_by_vocation
+Jürgen Przytarski				Jürgen Przytarski				People
+Sekundant						second							People_by_vocation
+Staatssekretär					state secretary					People_by_vocation
+Berlin							Berlin							Locale
+Innensenat						senate							Government_institution
+Wolfgang Müllenbrock			Wolfgang Müllenbrock			People
+Strategie						strategy						Purpose
+Verteidiger						defender						Trial		
+informieren						inform							Information
+Verteidigerbank					defense							Trial
+Weg								path							Goal
+Interna							internal matter					Information
+Gegenseite						opposition						Taking_sites
+Präsident						president						People_by_vocation
+Anwaltskammer					chamber of lawyer				Government_institution
+Borck							Borck							People
+Rettung							rescue							Rescueing
+Berufsstand						profession						People_by_vocatione
+schreiten						stride							Self_motion
+Kewenig							Kewenig							People
+Maßgabe							requirement						Imposing_obligation
+brisant							highly charged					N.A.
+Vermerk							comment							Statement
+aufschlussreich					revealing						Evidence
+Gespräch						conversation					Communication_manner
+Innensenator					Senator	of the Interior			People_by_vocation						
+Aktenschrank					filing cabinet					
+Kammerpräsident					president of the chamber of lawyer People_by_vocation
+rechtzeitig						in time							Relative_time
+Beendigung						completion						Completeness					
+Untersuchungsausschuss			commission of enquiry			Government_institution
+Skandalspirale					spiral of scandals				Reveal_secret
+Berlin							Berlin							Locale
+Verfassungsschutz				protection of the constitution	Government_institution
+abgebunkert						caged							Protection
+Vermerk							comment							Statement
+Mitglied						member							Membership
+Vorstand						management						Being_in_contral
+Anwaltskammer					chamber of lawyers				Building_subparts
+besser							better							Evaluative_comparison
+Vertreter						Representative					Representative
+Stand							profession						People_by_vocatione
+Vorstandskollegen				fellow manager					People_by_vocation
+Mittwoch 						Wednesday						Calendaric_unit
+Januar							January							Calendaric_unit
+Vorstandssitzung				board meeting					Event
+Anwaltskammer					chamber of lawyers				Building_subparts
+Kewenig-Geständnis				Confession of Kewenig			Reveal_secret	
+Öffentlichkeit 					public							N.A.
+Veröffentlichung				publication						Publishing
+vertraulich						confidential					Trust
+Dialog							dialogue						Communication
+Kewenig							Kewenig							People
+Konsequenzen					consequences					Causation
+Indiskretion					indiscretion					N.A.
+Vorstandskollegen				fellow manager					People_by_vocation
+Schmücker-Verfahren				Schmücker Trial 				Trial
+Konsequenzen					consequences					Causation					
+Schmücker-Verfahren				Schmücker Trial 				Trial
+amtlich							officiary						Government_institution
+Bespitzelung					spying							Reveal_secret
+Einstellung						dismissal						Cause_to_end
+Innenbehörde					municipal office of the interior Government_institution
+Gefahr							danger							Endangering
+Art								manner							Manner
+Oberfläche						surface							Reveal_secret
+Waffe							weapon							Weapon
+Grunewald						Grunewald						Locale
+Hand							hand							Body_parts
+Tat								crime							Committing_crime					
+V-Mann-Führer					Leader of v-men					People_by_vocation
+erfolgreich						successful						Personal_success
+Spitzeldienst					spying							Reveal_secret
+Frankfurt						Frankfurt						Locale
+Norddeutschland					Northern Germany				Locale
+West-Berlin						West-Berlin						Locale
+Italien							Italy							Locale
+stattliche						stately							Proportional_quantity
+Schweigegeld					hush-money						Silencing
+Höhe							amount							Amounting_to					
+Mark							Mark							Money
+Leben							life							Cycle_of_life_and_death
+Tablettenvergiftung				intoxication					Intoxication
+Mitangeklagter					Codefendant						Trial
+Kronzeuge						chief witness					Trial
+Anklage							accusation						Trial
+Informant						informant						Information
+Bund							bunch							Temporary_group
+eng								narrow							Measureable_attributes
+Kreis							circle							Temporary_group
+Hauptangeklagte					primare accused					Trial
+politisch						political						Political_actions
+Arbeit							work							Work
+Empfehlung						recommondation					Attempt_suasion
+Einstieg						access							Access_scenario
+linksradikal					left wing extremist				People_along_political_spectrum
+Szene							scene							People_along_political_spectrum
+akzeptieren						accept							Respond_to_proposal					
+Zentrum							centre							Locale
+sammeln							gather							N.A.
+Vertrauen						trust							Trust
+Aktivist						activist						People_along_political_spectrum
+Aktivität						activity						Activity
+Geschichte						history							History
+Waffendepot						depot for weapons				Placing
+Hausdurchsuchung				house search					N.A.
+überdauern						outlast							Surviving		
+Verhaftung						arrest							Arrest
+Auto							car								Operate_vehicle
+Eigenheim						house of one's own				Buidlings
+demolieren						demolish						Destroying
+Objekt							object							Physical_entity
+auskundschaften					exploring						Scrutiny
+Staatsschutz 					protection of the state			Law
+Genosse							accomplice						Supporting
+Argwohn							distrust						Suspicion
+Verschwinden					disappear						Departing
+wichtig							important						Importance
+Papiere							papers							Documents
+Wohnung							apartment						Buidlings
+Kette							chain 							Event
+Ungereimtheit					inconsistency					N.A.
+Kontakt							contact							Social_connection
+Verbindung						connection						Social_connection
+V-Leute							v-people						People_by_vocation
+Gefängnismauer					prisonwall						Buildings
+Strafanstalt					prison							Buildings
+Beschaffung						acquisition						Getting
+Sprengstoff						weapon							Weapon
+Verdächtigung					suspicion						Suspicion
+Dreistigkeit					audacity						Daring
+Veranstaltung					event							Event
+Empörung						indignation						Social_behaviour_evalutation
+Schweinereien					mess							N.A.
+Unterstützung					support							Supporting
+Freundin						friend							Sociability
+ergiebig						fruitfull						N.A.
+ablenken						distruct						Intention_deception
+Hintermann						backer							Supporting
+Staatsdirektor					director of state				People_by_vocation
+Posten 							post							Work
+Vizechef						vicedirector					People_by_vocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
