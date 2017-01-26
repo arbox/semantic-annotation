@@ -1,0 +1,140 @@
+s65070: +<s65070q19 Chaos s65070q19> nach der Flut  
++s65070q19: Was ist nach der Flut?
+
+s65071: In Bangladesch sind +<s65071q1 die HauptstädterInnen s65071q1> nach +<s65071q2 der Flutkatastrophe vom Sommer 1988 s65071q2> mit Hilfe versorgt worden - auf dem Land gingen viele leer aus
++s65071q1: Wer ist Versorgt worden?
++s65071q2: Nach welcher Katastrophe wurden die HauptstädterInnen versorgt?
+
+s65072: Aus +<s65072q38 Dhaka s65072q38> Uwe Hoering  
++s65072q38: Wo ist Uwe Hoering?
+
+s65073: " Hilfe für die Katastrophen-Opfer ist nicht mehr als eine Aspirin " , meint Parvez , Mitarbeiter einer nicht-staatlichen Entwicklungsorganisation .
+
+s65074: " Was wir brauchen , ist +<s65074q4 eine langfristige , umfassende Strategie s65074q4>. "
++s65074q4: Was brauchen wir?
+
+s65075: Auch der stellvertretende Leiter der UN-Entwicklungsorganisation UNDP , David Barker , wirkt frustriert , wenn er klagt :  
+
+s65076: " Es hat keinen Sinn , jährlich Milliarden zu investieren , die dann weggewaschen werden . "
+
+s65077: Ursache für Zorn und Frust ist die " Jahrhundert-Flutkatastrophe " vom Sommer vergangenen Jahres , die Präsident Ershad sogar veranlaßte , +<s65077q21 einen " Nationalen Rat für Katastrophenschutz s65077q21> " ins Leben zu rufen , der über alle Parteigrenzen hinweg Lösungen diskutieren soll .  
++s65077q21: Was hat Präsident Ershad ins Leben gerufen?
+
+s65078: Überschwemmungen sind in dem riesigen +<s65078q9 Flußdelta von Ganges , Brahmaputra und Meghna , in dem Bangladesch liegt , s65078q9> an der Tagesordnung ; doch die Flut vom September war etwas Besonderes .
++s65078q9: Wo sind Überschwemmungen an der Tagesordnung?
++s65078q10: Warum war die Flut vom September etwas Besonderes?
+
+s65079: Nicht so sehr wegen ihres Ausmaßes , auch nicht wegen der offiziell 2.359 Todesopfer oder der Zerstörung der Ernte auf mehreren Millionen Hektar Land , sondern +<s65078q10 wegen der ungewohnten Tatsache , daß erstmals die Hauptstadt Dhaka selbst unter Wasser stand und daß diejenigen , die sonst bei allen Katastrophen stets im Trockenen saßen , nun selbst nasse Füße bekamen , daß ihre großen Villen in dem Nobelviertel Gulshan , die kostbare Einrichtung einschließlich Video-Set bedroht waren s65078q10>.
+
+s65080: Selbst das Haus des Präsidenten blieb nicht verschont .
+
+s65081:  " +<s65081q11 Die Flut s65081q11> war für uns eine große Lehre " , hört man plötzlich von allen Seiten , und seit die Metropole erstmalig das alljährliche Schicksal der Landbevölkerung teilt , herrscht nationaler Konsens darüber , +<s65081q12 daß man künftig auf Überschwemmungen besser vorbereitet sein müsse s65081q12>.
++s65081q11: Was war eine große Lehre?
++s65081q12: Worüber herrscht Konsens?
+
+s65082: Katastrophenschutz , bessere Vorbeugung , Schadensbegrenzung sind stets wiederkehrende Stichworte , das Wort ' +<s65082q24 Umwelt s65082q24> ` , das bislang im staatlichen Fünfjahresplan nicht einmal vorkam , ist nun in aller Munde .  
++s65082q24: Welches Wort ist nun in aller Munde?
+
+s65083: +<s65083q25 Dhakas Slumbewohner s65083q25> , deren Siedlungen in den niedrig gelegenen Stadtgebieten am stärksten betroffen waren , wurden mit Fladenbrot , Kleidung und Trinkwasser reichlich versorgt .  
++s65083q25: Wer ist am stärksten betroffen?
+
+s65084: Auf dem Lande wurden Hilfsgüter häufig +<s65084q3 nach dem Gießkannenprinzip s65084q3> verteilt , anstatt sie zu konzentrieren , wo sie am dringendsten benötigt wurden .  
++s65084q3: Nach welchem Prinzip wurden die Hilfsgüter auf dem Land verteilt?
+
+s65085: Manche bekamen doppelt , andere gingen leer aus .
+
+s65086: +<s65086q5 Frühwarnsystem s65086q5> fehlt  
++s65086q5: Was fehlt?
+
+s65087: " +<s65087q6 Niemand s65087q6> sammelt und verwertet die Erfahrungen , die gemacht werden " , kritisierte Parvez das alljährlich wiederkehrende , oft spontane und unkoordinierte Katastrophenhilfe-Flickwerk .  
++s65087q6: Wer sammelt und verwertet die Erfahrungen?
+
+s65088: " Uns fehlt ein Flutwarnsystem " , stellten +<s65088q7 Beobachter s65088q7> nach den Überschwemmungen ernüchtert fest .  
++s65088q7: Wer stellte fest, dass ein Flutwarnsystem fehlt?
+
+s65089: Satellitenbilder zeigten zwar die Flutwellen , die nach kräftigen Regenfällen im Himalaya den Brahmaputra , Meghna und , nicht ganz so bedrohlich , den Ganges herunter auf Bangladesh zukamen , doch +<s65089q8 Vorkehrungen , die Bevölkerung zu warnen s65089q8> , gibt es nicht .  
++s65089q8: Was gibt es nicht?
+
+s65090: Ausländische Ratgeber haben vorgeschlagen , +<s65092q20 die Flüsse auszubaggern und riesige Deiche aufzuschütten s65092q20> .
+
+s65091: " +<s65091q27 Einfältig s65091q27> " sei das , meinen Bangladesch-Kenner , nicht nur wegen der wahnsinnigen Kosten .  
++s65091q27: Wie sind die Maßnahmen ausländischer Ratgeber?
+
+s65092: <s65092q20 Eine solche Einzwängung der Wassermassen s65092q20> würde nur ihre zerstörerische Kraft vergrößern .
++s65092q20: Was würde ihre Kraft vergrößern?
+
+s65093: +<s65093q39 Außerdem schwemmt die Flut Nährstoffe auf die Felder der Kleinbauern , die sich Kunstdünger ( i.e. Mineraldünger , d. s -in ) kaum leisten können s65093q39> - nur : falls das Wasser zu hoch oder zu lange auf den Feldern steht , verdirbt die Ernte .  
++s65093q39: Warum ist die Flut trotz der Katastrophe wichtig?
+
+s65094: Statt Flutkontrolle wäre daher eine " +<s65094q28 kontrollierte Flut s65094q28> " erforderlich , und bei Entwicklungsprojekten wie Straßen , die oft erhöht auf Dämmen angelegt werden , müßten überprüft werden , ob sie nicht den Abfluß der Wassermassen blockieren .  
++s65094q28: Was ist erfoderliche?
+
+s65095: Maßnahmen müßten im Oberlauf der Ströme beginnen , in Nepal , besonders aber in Indien , mit Auffangbecken , mit Aufforstung und Regeneration des Wasserhaushalts im entwaldeten Himalaya .  
+
+s65096: Doch +<s65096q24 über den Modus , vor allem über die Wasserverteilung s65096q24> streitet man seit Jahren , in Bangladesch mißtrauen viele dem " großen Bruder " Indien , daß er nicht nur die Fluten kontrollieren würde , sondern in den Trockenmonaten den bengalischen Bauern auch den Wasserhahn abdrehen könnte .
++s65096q24: Worüber streitet man sich seit Jahren?
+
+s65097: +<s65097q40 Daß ein Warnsystem allein unter den Bedingungen eines Landes wie Bangladesch nur geringen Wert hat s65097q40>, zeigen lange Erfahrungen .
++s65097q40: Was zeigen lange Erfahrungen?
++s65097q26: Warum zeigen lange Erfahrungen, dass ein Warnsystem allein nur geringen Wert hat?
+
+s65098: +<s65097q26 Warnungen über Rundfunk und das Netz der mit Empfangsgeräten ausgerüsteten Helfer , das nach dem Wirbelstrum 1970 mit seinen möglicherweise 500.000 Toten in einigen besonders gefährdeten Landesteilen eingerichtet wurde , erreichen nur einen Teil der Bevölkerung s65097q26>.
+
+s65099: +<s65097q26 Empfangsgeräte sind kaputt , Schutzräume , die mit Weltbank-Geldern angelegt wurden , verfallen , Distriktverwaltungen haben keine ausreichenden Vorräte an Hilfsgütern s65097q26>.
+
+s65100: Doch selbst wenn die Sturmwarnungen sie erreichen , +<s65097q26 stehen viele vor der Wahl zwischen Sicherheit oder Lebensunterhalt , Evakuierung oder Dableiben und Hoffen , daß die Katastrophe woanders zuschlägt s65097q26> - ein Vabanque-Spiel , das viele mit dem Leben bezahlen .
+
+s65101: Da niemand weiß , wieviele Menschen in dem Katastrophengebiet , auf frisch aufgeschwemmten flachen Inseln lebten , wieviele in den ausgedehnten , von tausend Wasserarmen durchzogenen riesigen Mangrovewäldern als illegale Honig- oder Holzsammler arbeiteten , wieviele Fischer zum Fang ausgefahren waren , wird +<s65101q31 die genaue Zahl der Opfer s65101q31> nie festgestellt werden .  
++s65101q31: Was wird nie festgestellt werden?
+
+s65102: Offiziell wurden bislang +<s65102q41 knapp zweitausend Tote s65102q41> gefunden , doch mehrere tausend Fischer werden noch immer vermißt .  
++s65102q41: Wie viele Tote sind gefunden worden?
+
+s65103: Täglich werden +<s65103q42 den abgelegenen Flußläufen und Buschgebieten s65103q42> weitere Leichen gefunden , aufgedunsen , verwest , von Hunden angefressen .
++s65103q42: Wo werden täglich weitere Leichen gefunden?
+
+s65104: Anders als drei Monate zuvor im überschwemmten Dhaka läuft die Hilfsmaschinerie für die Sturmopfer eher schleppend an , auch wenn allabendlich in der ' Tagesschau ` telegen Armeehubschrauber gen Khulna starten , beladen mit Decken , Kochtöpfen , Kinderkleidung ' Medikamenten und Saris aus den Vorratskammern des Präsidenten .
+
+s65105: " +<s65105q29 Für Ershad s65105q29> ist der Wirbelsturm gut " , hört man allenthalben in Dhaka , nicht nur +<s65105q30 weil er und die Armee , deren Soldaten nach Parvez` Worten wunderlicherweise " bei ihrem Katastrophen-Einsatz immer saubere Uniformen und blitzblanke Schuhe haben " , sich imageträchtig in Szene setzen können s65105q30>.
++s65105q29: Für wen ist der Wirbelsturm gut?
++s65105q30: Warum ist der Wirbelsturm für Ershad gut?
+
+s65106: Der Flut vom Sommer etwa folgte +<s65106q33 eine Hundert-Millionen-Dollar-Flut von Hilfszusagen s65106q33> .  
++s65106q33: Was folgte auf die Flut?
+
+s65107: +<s65107q34 Hilfslieferungen s65107q34> sind allerdings in ihrem Nutzen umstritten .  
++s65107q34: Was ist umstritten?
+
+s65108: " Wir haben lieber +<s65108q35 Geldspenden s65108q35> " , sagt Jeffrey Pereira , während er überwacht , wie drei Lastwagen mit Plastikeimern und knallbunten Wolldecken beladen werden .  
++s65108q35: Was ist Jeffrey Pereira lieber als Hilfslieferungen?
+
+s65109: " Soweit wie möglich kaufen wir dann +<s65109q14 auf dem einheimischen Markt oder in den Nachbarländern s65109q14> . "  
++s65109q14: Wo werden Hilfsgüter gekauft?
+
+s65110: Sachspenden bleiben dagegen wochenlang im +<s65110q15 Zoll s65110q15> hängen , wie die Decken , Kleidung und Stoffe , die Katholiken aus der DDR gespendet haben .  
++s65110q15: Wo befinden sich die Sachspenden?
+
+s65111: Doch die Möglichkeiten , sich selbst zu helfen und nicht nur auf ausländische Hilfe zu bauen , sind gering .  
+
+s65112: Denn zu bequem und verlockend ist für Staat , Verwaltung und Armee der Bonus an Katastrophenhilfe , der zusätzlich zur Wirtschafts- und Militärhilfe in Millionenhöhe ins Land geschwemmt wird .  
+
+s65113: +<s65113q43 In Dhaka s65113q43> ist längst wieder der Alltag eingekehrt .
++s65113q43: Wo ist wieder der Alltag eingekehrt?
+
+s65114: +<s65114q36 Der große Brunnen an einer Kreuzung der breiten , frisch asphaltierten Hauptstraße , dessen bunte Mosaiken sorglose Szenen aus dem bengalischen Alltag zeigen s65114q36>, ist fast fertig .
++s65114q36: Was ist fast fertig?
+
+
+s65115: während die Arbeiten mit Hochdruck vorangetrieben werden , werden die Passanten durch ein großes Schild darüber informiert , daß hier " +<s65115q17 Entwicklungsarbeit s65115q17> im Gange " ist .  
++s65115q17: Was ist im Gange?
+
+s65116: " Dafür geben sie Geld aus " , brummt der Taxifahrer .  
+
+s65117: Und Dhakas Slumbewohner haben sich +<s65117q18 die gleichen wackeligen Hütten aus Stroh , Holz und Lehm s65117q18> wie zuvor wieder aufgebaut , in denselben flutgefährdeten Gebieten - Lebensbedingungen , die dazu beitragen , daß die Naturgewalten zur Katastrophe werden .  
++s65117q18: Was haben die Bewohner gebaut?
+
+s65118: " Sie haben die Fähigkeit entwickelt , +<s65118q37 Schläge wegzustecken , abzufedern s65118q37> " , sagt Parvez .  
++s65118q37: Welche Fähigkeit wurde entwickelt?
+
+s65119: Er meint es als Feststellung , ein bißchen bewundernd sogar - doch es klingt zynisch .
+
