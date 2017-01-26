@@ -1,0 +1,48 @@
+LemmaDE	LemmaENG	Frame	
+
+HauptstädterInnen	people	dsf q1
+Flutkatastrophe	flood disaster	dsf q2
+Chaos	chaos	sdf q19
+Dhaka	Dhaka	sdf	q38
+Strategie	strategy	asd	q4
+Nationalen Rat	national council	sdf	q21
+Fluss	river	asd	q9
+Tatsache	fact	asd	q10
+Flut	flood	sadf	q11
+Konsequenzen	consequence	df	q12
+Umwelt	environment	sdf	q24
+Slumbewohner	q25
+Gießkannenprinzip	q3
+Frühwarnsystem	early-warning system	q5
+Niemand	nobody	q6
+Beobachter	observer	q7
+Vorkehrungen	 	provisions	q8
+Einfältig	simple		q27
+Einzwängung	contraint	q20
+Nährstoffe	nutrients	q39
+Flut	flood	q28
+Modus	modus	q24
+Wert	value	q40
+Wahl	choice	q26
+Zahl	number		q31
+zweitausend	two thousend	q41
+Flußläufe	river flows q42
+Ershad	Ershad	q29
+Katastrophen-Einsatz	Disaster use	q30
+Hilfszusagen	Acknowledgments	q33
+Hilfslieferungen	Auxiliary supplies	q34
+Geldspenden	Money donations	q35
+Markt	market	q14
+Zoll	customs	q15
+Dhaka	Dhaka	q43
+Brunnen	fountain	q36
+Entwicklungsarbeit	q17
+Hütten	q18
+wegzustecken	q37
+
+
+
+
+
+
+
