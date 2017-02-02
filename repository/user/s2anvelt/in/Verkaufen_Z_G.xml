@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<corpus corpusname="TIGER-Gesamt-Aug07" target="verkaufen">
+<corpus corpusname="TIGER-Gesamt-Aug07" target="">
 	<head>
 		<meta>
-			<corpus_id parent="dd3e82c8-b0c5-4d1d-af63-753b9bf12897">ccab5209-8464-4ffd-b1e5-9b271077ff0e</corpus_id>
+			<corpus_id parent="77ec86ac-bf34-4273-886e-46de831f0d8a">ff28e89c-88b3-4e2b-b977-71d41e9aa727</corpus_id>
 			<history>
-				<action type="distribute" user="arbox" date="2016-12-08" time="12:59">
-					<step>Annotation</step>
-					<recipient id="13d9824a-a5c9-4052-8210-216f52984900">arbox</recipient>
+				<action type="merge" user="arbox" date="2016-12-22" time="14:39">
+					<source index="1">1992fa9b-8f33-476b-ab49-5f0067f6c455</source>
+					<source index="2">032de28c-324c-4b3d-8737-a1f62db5a0aa</source>
 				</action>
-				<action type="distribute" user="arbox" date="2016-12-08" time="15:22">
-					<step>Annotation</step>
-					<recipient id="811a6a4a-557b-4fb3-aaab-eaa8944b27cb">arbox</recipient>
-					<recipient id="ccab5209-8464-4ffd-b1e5-9b271077ff0e">s2flpras</recipient>
-					<recipient id="d1d87e52-8cf9-4ec5-8fac-429531afa807">s2labayy</recipient>
-					<recipient id="c23fda02-0543-4eeb-bbbe-64271dea7927">s2miduer</recipient>
+				<action type="save" user="arbox" date="2016-12-22" time="14:53">
+					<step>Adjudikation</step>
+				</action>
+				<action type="save" user="arbox" date="2016-12-22" time="14:54">
+					<step>Adjudikation</step>
+				</action>
+				<action type="distribute" user="arbox" date="2016-12-22" time="14:54">
+					<step>Adjudikation</step>
+					<recipient id="ff28e89c-88b3-4e2b-b977-71d41e9aa727">s2anvelt</recipient>
+					<recipient id="6bf3e50d-99b5-4e53-9c79-6de2fc545363">siwer</recipient>
 				</action>
 			</history>
 			<format>NeGra format, version 3</format>
@@ -936,22 +940,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s25_f1">
-						<target>
-							<fenode idref="s25_3"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25_f1_e1">
-							<fenode idref="s25_500"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s25_f1_e2">
-							<fenode idref="s25_4"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s25_f1_e3">
-							<fenode idref="s25_504"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1015,16 +1003,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s572_f1">
-						<target>
-							<fenode idref="s572_502"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s572_f1_e1">
-							<fenode idref="s572_504"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1125,19 +1103,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s1003_f1">
-						<target>
-							<fenode idref="s1003_7"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s1003_f1_e1">
-							<fenode idref="s1003_6"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s1003_f1_e2">
-							<fenode idref="s1003_503"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1343,22 +1308,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s1716_f1">
-						<target>
-							<fenode idref="s1716_17"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s1716_f1_e1">
-							<fenode idref="s1716_5"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s1716_f1_e2">
-							<fenode idref="s1716_500"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s1716_f1_e3">
-							<fenode idref="s1716_519"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1474,16 +1423,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s2939_f1">
-						<target>
-							<fenode idref="s2939_22"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s2939_f1_e1">
-							<fenode idref="s2939_511"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1622,16 +1561,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s3828_f1">
-						<target>
-							<fenode idref="s3828_11"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s3828_f1_e1">
-							<fenode idref="s3828_511"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1732,14 +1661,14 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s5814_f1">
+					<frame name="Commerce_sell" id="s5814_f1">
 						<target>
 							<fenode idref="s5814_10"/>
 						</target>
-						<fe name="Goods" id="verkaufen_s5814_f1_e1">
+						<fe name="Goods" id="s5814_f1_e1">
 							<fenode idref="s5814_506"/>
 						</fe>
-						<fe name="Seller" id="verkaufen_s5814_f1_e2">
+						<fe name="Seller" id="s5814_f1_e2">
 							<fenode idref="s5814_501"/>
 						</fe>
 					</frame>
@@ -1886,19 +1815,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6319_f1">
-						<target>
-							<fenode idref="s6319_18"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6319_f1_e1">
-							<fenode idref="s6319_509"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s6319_f1_e2">
-							<fenode idref="s6319_506"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -1995,16 +1911,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6729_f1">
-						<target>
-							<fenode idref="s6729_8"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6729_f1_e1">
-							<fenode idref="s6729_504"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2098,16 +2004,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6731_f1">
-						<target>
-							<fenode idref="s6731_15"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6731_f1_e1">
-							<fenode idref="s6731_507"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2223,19 +2119,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6733_f1">
-						<target>
-							<fenode idref="s6733_17"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6733_f1_e1">
-							<fenode idref="s6733_14"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s6733_f1_e2">
-							<fenode idref="s6733_502"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2324,19 +2207,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6767_f1">
-						<target>
-							<fenode idref="s6767_7"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6767_f1_e1">
-							<fenode idref="s6767_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s6767_f1_e2">
-							<fenode idref="s6767_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2427,19 +2297,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6818_f1">
-						<target>
-							<fenode idref="s6818_2"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s6818_f1_e1">
-							<fenode idref="s6818_506"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s6818_f1_e2">
-							<fenode idref="s6818_1"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2513,11 +2370,11 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s6988_f1">
+					<frame name="Commerce_sell" id="s6988_f1">
 						<target>
 							<fenode idref="s6988_5"/>
 						</target>
-						<fe name="Goods" id="verkaufen_s6988_f1_e1">
+						<fe name="Goods" id="s6988_f1_e1">
 							<fenode idref="s6988_3"/>
 						</fe>
 					</frame>
@@ -2599,19 +2456,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7053_f1">
-						<target>
-							<fenode idref="s7053_15"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7053_f1_e1">
-							<fenode idref="s7053_10"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s7053_f1_e2">
-							<fenode idref="s7053_501"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2724,16 +2568,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7054_f1">
-						<target>
-							<fenode idref="s7054_18"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7054_f1_e1">
-							<fenode idref="s7054_501"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2851,19 +2685,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7222_f1">
-						<target>
-							<fenode idref="s7222_28"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7222_f1_e1">
-							<fenode idref="s7222_504"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s7222_f1_e2">
-							<fenode idref="s7222_17"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2992,20 +2813,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7465_f1">
-						<target>
-							<fenode idref="s7465_6"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7465_f1_e1">
-							<fenode idref="s7465_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s7465_f1_e2">
-							<fenode idref="s7465_500"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3103,22 +2910,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7666_f1">
-						<target>
-							<fenode idref="s7666_19"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7666_f1_e1">
-							<fenode idref="s7666_507"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s7666_f1_e2">
-							<fenode idref="s7666_504"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s7666_f1_e3">
-							<fenode idref="s7666_508"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3237,38 +3028,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s7729_f2">
-						<target>
-							<fenode idref="s7729_23"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s7729_f2_e1">
-							<fenode idref="s7729_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s7729_f2_e2">
-							<fenode idref="s7729_7"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s7729_f2_e3">
-							<fenode idref="s7729_506"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Suasion" id="verkaufen_s7729_f1">
-						<target>
-							<fenode idref="s7729_23"/>
-						</target>
-						<fe name="Addressee" id="verkaufen_s7729_f1_e1">
-							<fenode idref="s7729_506"/>
-						</fe>
-						<fe name="Speaker" id="verkaufen_s7729_f1_e2">
-							<fenode idref="s7729_7"/>
-						</fe>
-						<fe name="Content" id="verkaufen_s7729_f1_e3">
-							<fenode idref="s7729_503"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3374,35 +3133,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s9483_f2">
-						<target>
-							<fenode idref="s9483_7"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s9483_f2_e1">
-							<fenode idref="s9483_1"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s9483_f2_e2">
-							<fenode idref="s9483_2"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Communicate_categorization" id="verkaufen_s9483_f1">
-						<target>
-							<fenode idref="s9483_7"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s9483_f1_e1">
-							<fenode idref="s9483_2"/>
-						</fe>
-						<fe name="Category" id="verkaufen_s9483_f1_e2">
-							<fenode idref="s9483_500"/>
-						</fe>
-						<fe name="Item" id="verkaufen_s9483_f1_e3">
-							<fenode idref="s9483_1"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3496,16 +3226,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s9711_f1">
-						<target>
-							<fenode idref="s9711_14"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s9711_f1_e1">
-							<fenode idref="s9711_9"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3582,11 +3302,11 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s9798_f1">
+					<frame name="Commerce_sell" id="s9798_f1">
 						<target>
 							<fenode idref="s9798_1"/>
 						</target>
-						<fe name="Goods" id="verkaufen_s9798_f1_e1">
+						<fe name="Goods" id="s9798_f1_e1">
 							<fenode idref="s9798_505"/>
 						</fe>
 					</frame>
@@ -3733,32 +3453,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s10320_f2">
-						<target>
-							<fenode idref="s10320_502"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s10320_f2_e1">
-							<fenode idref="s10320_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s10320_f2_e2">
-							<fenode idref="s10320_8"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Suasion" id="verkaufen_s10320_f1">
-						<target>
-							<fenode idref="s10320_502"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s10320_f1_e1">
-							<fenode idref="s10320_8"/>
-						</fe>
-						<fe name="Content" id="verkaufen_s10320_f1_e2">
-							<fenode idref="s10320_501"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3898,19 +3592,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s10805_f1">
-						<target>
-							<fenode idref="s10805_33"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s10805_f1_e1">
-							<fenode idref="s10805_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s10805_f1_e2">
-							<fenode idref="s10805_13"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4050,22 +3731,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s11941_f1">
-						<target>
-							<fenode idref="s11941_26"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s11941_f1_e1">
-							<fenode idref="s11941_508"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s11941_f1_e2">
-							<fenode idref="s11941_27"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s11941_f1_e3">
-							<fenode idref="s11941_25"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4172,19 +3837,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s11973_f1">
-						<target>
-							<fenode idref="s11973_5"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s11973_f1_e1">
-							<fenode idref="s11973_500"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s11973_f1_e2">
-							<fenode idref="s11973_1"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4293,19 +3945,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s12243_f1">
-						<target>
-							<fenode idref="s12243_504"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s12243_f1_e1">
-							<fenode idref="s12243_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s12243_f1_e2">
-							<fenode idref="s12243_8"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4394,16 +4033,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s12533_f1">
-						<target>
-							<fenode idref="s12533_18"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s12533_f1_e1">
-							<fenode idref="s12533_11"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4466,16 +4095,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13063_f1">
-						<target>
-							<fenode idref="s13063_5"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s13063_f1_e1">
-							<fenode idref="s13063_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4544,12 +4163,14 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13308_f1">
+					<frame name="Commerce_sell" id="s13308_f1">
 						<target>
 							<fenode idref="s13308_6"/>
 						</target>
-						<fe name="Goods" id="verkaufen_s13308_f1_e1">
+						<fe name="Goods" id="s13308_f1_e1">
 							<fenode idref="s13308_1"/>
+						</fe>
+						<fe name="Goods" id="s13308_f1_e2" source="2">
 							<fenode idref="s13308_504"/>
 						</fe>
 					</frame>
@@ -4671,29 +4292,10 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13317_f1">
-						<target>
-							<fenode idref="s13317_26"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s13317_f1_e1">
-							<fenode idref="s13317_13"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s13317_f1_e2">
-							<fenode idref="s13317_14"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s13317_f1_e3" usp="yes">
-							<fenode idref="s13317_505"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
 					<uspfes>
-						<uspblock>
-							<uspitem idref="verkaufen_s13317_f1_e3"/>
-						</uspblock>
 					</uspfes>
 				</usp>
 				<wordtags>
@@ -4814,16 +4416,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13470_f1">
-						<target>
-							<fenode idref="s13470_26"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s13470_f1_e1">
-							<fenode idref="s13470_511"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4931,16 +4523,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13599_f1">
-						<target>
-							<fenode idref="s13599_13"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s13599_f1_e1">
-							<fenode idref="s13599_502"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5010,19 +4592,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13759_f1">
-						<target>
-							<fenode idref="s13759_3"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s13759_f1_e1">
-							<fenode idref="s13759_505"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s13759_f1_e2">
-							<fenode idref="s13759_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5075,18 +4644,18 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s13981_f1">
+					<frame name="Commerce_sell" id="s13981_f1">
 						<target>
 							<fenode idref="s13981_2"/>
 						</target>
-						<fe name="Goods" id="verkaufen_s13981_f1_e1">
+						<fe name="Buyer" id="s13981_f1_e1" source="1">
+							<fenode idref="s13981_501"/>
+						</fe>
+						<fe name="Goods" id="s13981_f1_e2">
 							<fenode idref="s13981_500"/>
 						</fe>
-						<fe name="Seller" id="verkaufen_s13981_f1_e2">
+						<fe name="Seller" id="s13981_f1_e3">
 							<fenode idref="s13981_3"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s13981_f1_e3">
-							<fenode idref="s13981_501"/>
 						</fe>
 					</frame>
 				</frames>
@@ -5172,19 +4741,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s15829_f1">
-						<target>
-							<fenode idref="s15829_502"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s15829_f1_e1">
-							<fenode idref="s15829_9"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s15829_f1_e2">
-							<fenode idref="s15829_504"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5251,16 +4807,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s16077_f1">
-						<target>
-							<fenode idref="s16077_4"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s16077_f1_e1">
-							<fenode idref="s16077_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5454,16 +5000,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s16477_f1">
-						<target>
-							<fenode idref="s16477_16"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s16477_f1_e1">
-							<fenode idref="s16477_511"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5545,19 +5081,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s16534_f1">
-						<target>
-							<fenode idref="s16534_503"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s16534_f1_e1">
-							<fenode idref="s16534_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s16534_f1_e2">
-							<fenode idref="s16534_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5632,19 +5155,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s16952_f1">
-						<target>
-							<fenode idref="s16952_10"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s16952_f1_e1">
-							<fenode idref="s16952_11"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s16952_f1_e2">
-							<fenode idref="s16952_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5703,19 +5213,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s17174_f1">
-						<target>
-							<fenode idref="s17174_1"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s17174_f1_e1">
-							<fenode idref="s17174_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s17174_f1_e2">
-							<fenode idref="s17174_2"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -5822,16 +5319,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s17437_f1">
-						<target>
-							<fenode idref="s17437_12"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s17437_f1_e1">
-							<fenode idref="s17437_13"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6115,32 +5602,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s17636_f2">
-						<target>
-							<fenode idref="s17636_511"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s17636_f2_e1">
-							<fenode idref="s17636_505"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s17636_f2_e2">
-							<fenode idref="s17636_45"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Suasion" id="verkaufen_s17636_f1">
-						<target>
-							<fenode idref="s17636_511"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s17636_f1_e1">
-							<fenode idref="s17636_45"/>
-						</fe>
-						<fe name="Content" id="verkaufen_s17636_f1_e2">
-							<fenode idref="s17636_505"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6280,22 +5741,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18142_f1">
-						<target>
-							<fenode idref="s18142_11"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s18142_f1_e1">
-							<fenode idref="s18142_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s18142_f1_e2">
-							<fenode idref="s18142_501"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s18142_f1_e3">
-							<fenode idref="s18142_5"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6448,35 +5893,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18226_f2">
-						<target>
-							<fenode idref="s18226_33"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s18226_f2_e1">
-							<fenode idref="s18226_8"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s18226_f2_e2">
-							<fenode idref="s18226_508"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Communicate_categorization" id="verkaufen_s18226_f1">
-						<target>
-							<fenode idref="s18226_33"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s18226_f1_e1">
-							<fenode idref="s18226_508"/>
-						</fe>
-						<fe name="Category" id="verkaufen_s18226_f1_e2">
-							<fenode idref="s18226_506"/>
-						</fe>
-						<fe name="Item" id="verkaufen_s18226_f1_e3">
-							<fenode idref="s18226_8"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6530,19 +5946,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18354_f1">
-						<target>
-							<fenode idref="s18354_9"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s18354_f1_e1">
-							<fenode idref="s18354_500"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s18354_f1_e2">
-							<fenode idref="s18354_6"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6661,22 +6064,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18597_f1">
-						<target>
-							<fenode idref="s18597_28"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s18597_f1_e1">
-							<fenode idref="s18597_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s18597_f1_e2">
-							<fenode idref="s18597_505"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s18597_f1_e3">
-							<fenode idref="s18597_508"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6758,16 +6145,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18754_f1">
-						<target>
-							<fenode idref="s18754_15"/>
-						</target>
-						<fe name="Seller" id="verkaufen_s18754_f1_e1">
-							<fenode idref="s18754_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6847,19 +6224,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s18825_f1">
-						<target>
-							<fenode idref="s18825_16"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s18825_f1_e1">
-							<fenode idref="s18825_13"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s18825_f1_e2">
-							<fenode idref="s18825_5"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6890,19 +6254,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s19054_f1">
-						<target>
-							<fenode idref="s19054_2"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s19054_f1_e1">
-							<fenode idref="s19054_3"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s19054_f1_e2">
-							<fenode idref="s19054_1"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -6998,22 +6349,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s19055_f1">
-						<target>
-							<fenode idref="s19055_21"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s19055_f1_e1">
-							<fenode idref="s19055_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s19055_f1_e2">
-							<fenode idref="s19055_505"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s19055_f1_e3">
-							<fenode idref="s19055_506"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7096,19 +6431,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s19271_f1">
-						<target>
-							<fenode idref="s19271_502"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s19271_f1_e1">
-							<fenode idref="s19271_9"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s19271_f1_e2">
-							<fenode idref="s19271_504"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7217,19 +6539,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s20638_f1">
-						<target>
-							<fenode idref="s20638_16"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s20638_f1_e1">
-							<fenode idref="s20638_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s20638_f1_e2">
-							<fenode idref="s20638_12"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7367,19 +6676,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s20750_f1">
-						<target>
-							<fenode idref="s20750_32"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s20750_f1_e1">
-							<fenode idref="s20750_511"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s20750_f1_e2">
-							<fenode idref="s20750_503"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7439,19 +6735,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s21739_f1">
-						<target>
-							<fenode idref="s21739_9"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s21739_f1_e1">
-							<fenode idref="s21739_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s21739_f1_e2">
-							<fenode idref="s21739_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7547,19 +6830,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s22359_f1">
-						<target>
-							<fenode idref="s22359_21"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s22359_f1_e1">
-							<fenode idref="s22359_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s22359_f1_e2">
-							<fenode idref="s22359_13"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7630,19 +6900,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s22720_f1">
-						<target>
-							<fenode idref="s22720_5"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s22720_f1_e1">
-							<fenode idref="s22720_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s22720_f1_e2">
-							<fenode idref="s22720_503"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7715,19 +6972,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s23135_f1">
-						<target>
-							<fenode idref="s23135_14"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s23135_f1_e1">
-							<fenode idref="s23135_11"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s23135_f1_e2">
-							<fenode idref="s23135_10"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7798,19 +7042,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s23614_f1">
-						<target>
-							<fenode idref="s23614_3"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s23614_f1_e1">
-							<fenode idref="s23614_504"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s23614_f1_e2">
-							<fenode idref="s23614_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -7935,16 +7166,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s23680_f1">
-						<target>
-							<fenode idref="s23680_30"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s23680_f1_e1">
-							<fenode idref="s23680_507"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8039,16 +7260,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s24071_f1">
-						<target>
-							<fenode idref="s24071_6"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s24071_f1_e1">
-							<fenode idref="s24071_3"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8093,19 +7304,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s24118_f1">
-						<target>
-							<fenode idref="s24118_2"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s24118_f1_e1">
-							<fenode idref="s24118_500"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s24118_f1_e2">
-							<fenode idref="s24118_1"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8239,19 +7437,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s24925_f1">
-						<target>
-							<fenode idref="s24925_7"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s24925_f1_e1">
-							<fenode idref="s24925_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s24925_f1_e2">
-							<fenode idref="s24925_511"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8306,19 +7491,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s24935_f1">
-						<target>
-							<fenode idref="s24935_2"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s24935_f1_e1">
-							<fenode idref="s24935_502"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s24935_f1_e2">
-							<fenode idref="s24935_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8403,36 +7575,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s25074_f2">
-						<target>
-							<fenode idref="s25074_12"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25074_f2_e1">
-							<fenode idref="s25074_5"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s25074_f2_e2">
-							<fenode idref="s25074_500"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s25074_f2_e3">
-							<fenode idref="s25074_501"/>
-						</fe>
-					</frame>
-					<frame name="Commerce_sell" id="verkaufen_s25074_f1">
-						<target>
-							<fenode idref="s25074_12"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25074_f1_e1">
-							<fenode idref="s25074_9"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s25074_f1_e2">
-							<fenode idref="s25074_500"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s25074_f1_e3">
-							<fenode idref="s25074_502"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8576,19 +7718,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s25081_f1">
-						<target>
-							<fenode idref="s25081_33"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25081_f1_e1">
-							<fenode idref="s25081_504"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s25081_f1_e2">
-							<fenode idref="s25081_17"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8662,16 +7791,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s25531_f1">
-						<target>
-							<fenode idref="s25531_13"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25531_f1_e1">
-							<fenode idref="s25531_505"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8731,19 +7850,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s25600_f1">
-						<target>
-							<fenode idref="s25600_9"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s25600_f1_e1">
-							<fenode idref="s25600_500"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s25600_f1_e2">
-							<fenode idref="s25600_501"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8821,19 +7927,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27050_f1">
-						<target>
-							<fenode idref="s27050_3"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27050_f1_e1">
-							<fenode idref="s27050_505"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27050_f1_e2">
-							<fenode idref="s27050_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -8917,35 +8010,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27066_f2">
-						<target>
-							<fenode idref="s27066_5"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27066_f2_e1">
-							<fenode idref="s27066_505"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27066_f2_e2">
-							<fenode idref="s27066_501"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Communicate_categorization" id="verkaufen_s27066_f1">
-						<target>
-							<fenode idref="s27066_5"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s27066_f1_e1">
-							<fenode idref="s27066_501"/>
-						</fe>
-						<fe name="Category" id="verkaufen_s27066_f1_e2">
-							<fenode idref="s27066_502"/>
-						</fe>
-						<fe name="Item" id="verkaufen_s27066_f1_e3">
-							<fenode idref="s27066_505"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9056,22 +8120,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27386_f1">
-						<target>
-							<fenode idref="s27386_12"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27386_f1_e1">
-							<fenode idref="s27386_508"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27386_f1_e2">
-							<fenode idref="s27386_13"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s27386_f1_e3">
-							<fenode idref="s27386_507"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9133,19 +8181,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27427_f1">
-						<target>
-							<fenode idref="s27427_9"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27427_f1_e1">
-							<fenode idref="s27427_8"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27427_f1_e2">
-							<fenode idref="s27427_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9217,38 +8252,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27681_f2">
-						<target>
-							<fenode idref="s27681_14"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27681_f2_e1">
-							<fenode idref="s27681_501"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27681_f2_e2">
-							<fenode idref="s27681_8"/>
-						</fe>
-						<fe name="Buyer" id="verkaufen_s27681_f2_e3">
-							<fenode idref="s27681_500"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Suasion" id="verkaufen_s27681_f1">
-						<target>
-							<fenode idref="s27681_14"/>
-						</target>
-						<fe name="Addressee" id="verkaufen_s27681_f1_e1">
-							<fenode idref="s27681_500"/>
-						</fe>
-						<fe name="Speaker" id="verkaufen_s27681_f1_e2">
-							<fenode idref="s27681_8"/>
-						</fe>
-						<fe name="Content" id="verkaufen_s27681_f1_e3">
-							<fenode idref="s27681_501"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9325,16 +8328,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="verkaufen1-salsa" id="verkaufen_s27688_f2">
-						<target>
-							<fenode idref="s27688_503"/>
-						</target>
-						<fe name="Cognizer" id="verkaufen_s27688_f2_e1">
-							<fenode idref="s27688_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9475,19 +8468,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27898_f1">
-						<target>
-							<fenode idref="s27898_36"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27898_f1_e1">
-							<fenode idref="s27898_504"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s27898_f1_e2">
-							<fenode idref="s27898_21"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9569,16 +8549,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s27989_f1">
-						<target>
-							<fenode idref="s27989_13"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s27989_f1_e1">
-							<fenode idref="s27989_502"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9694,19 +8664,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s29433_f1">
-						<target>
-							<fenode idref="s29433_504"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s29433_f1_e1">
-							<fenode idref="s29433_25"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s29433_f1_e2">
-							<fenode idref="s29433_24"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9806,16 +8763,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s29778_f1">
-						<target>
-							<fenode idref="s29778_19"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s29778_f1_e1">
-							<fenode idref="s29778_508"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9901,16 +8848,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s29780_f1">
-						<target>
-							<fenode idref="s29780_10"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s29780_f1_e1">
-							<fenode idref="s29780_505"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -9991,26 +8928,10 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s30065_f1">
-						<target>
-							<fenode idref="s30065_12"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s30065_f1_e1">
-							<fenode idref="s30065_503"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s30065_f1_e2" usp="yes">
-							<fenode idref="s30065_500"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
 					<uspfes>
-						<uspblock>
-							<uspitem idref="verkaufen_s30065_f1_e2"/>
-						</uspblock>
 					</uspfes>
 				</usp>
 				<wordtags>
@@ -10083,17 +9004,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s31185_f1">
-						<target>
-							<fenode idref="s31185_13"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s31185_f1_e1">
-							<fenode idref="s31185_506"/>
-							<fenode idref="s31185_503"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -10266,41 +9176,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s31593_f3">
-						<target>
-							<fenode idref="s31593_28"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s31593_f3_e1">
-							<fenode idref="s31593_512"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s31593_f3_e2">
-							<fenode idref="s31593_35"/>
-						</fe>
-					</frame>
-					<frame name="Commerce_sell" id="verkaufen_s31593_f2">
-						<target>
-							<fenode idref="s31593_28"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s31593_f2_e1">
-							<fenode idref="s31593_505"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s31593_f2_e2">
-							<fenode idref="s31593_31"/>
-						</fe>
-					</frame>
-					<frame name="Commerce_sell" id="verkaufen_s31593_f1">
-						<target>
-							<fenode idref="s31593_28"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s31593_f1_e1">
-							<fenode idref="s31593_29"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s31593_f1_e2">
-							<fenode idref="s31593_27"/>
-						</fe>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -10385,35 +9260,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s32104_f2">
-						<target>
-							<fenode idref="s32104_501"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s32104_f2_e1">
-							<fenode idref="s32104_1"/>
-						</fe>
-						<fe name="Seller" id="verkaufen_s32104_f2_e2">
-							<fenode idref="s32104_2"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Communicate_categorization" id="verkaufen_s32104_f1">
-						<target>
-							<fenode idref="s32104_501"/>
-						</target>
-						<fe name="Speaker" id="verkaufen_s32104_f1_e1">
-							<fenode idref="s32104_2"/>
-						</fe>
-						<fe name="Category" id="verkaufen_s32104_f1_e2">
-							<fenode idref="s32104_500"/>
-						</fe>
-						<fe name="Item" id="verkaufen_s32104_f1_e3">
-							<fenode idref="s32104_1"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -10520,29 +9366,6 @@
 			<sem>
 				<globals>
 				</globals>
-				<frames>
-					<frame name="Commerce_sell" id="verkaufen_s32494_f2">
-						<target>
-							<fenode idref="s32494_16"/>
-						</target>
-						<fe name="Goods" id="verkaufen_s32494_f2_e1">
-							<fenode idref="s32494_5"/>
-						</fe>
-						<flag name="Source"/>
-					</frame>
-					<frame name="Communicate_categorization" id="verkaufen_s32494_f1">
-						<target>
-							<fenode idref="s32494_16"/>
-						</target>
-						<fe name="Category" id="verkaufen_s32494_f1_e1">
-							<fenode idref="s32494_507"/>
-						</fe>
-						<fe name="Item" id="verkaufen_s32494_f1_e2">
-							<fenode idref="s32494_5"/>
-						</fe>
-						<flag name="Target"/>
-					</frame>
-				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>

@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<corpus corpusname="TIGER-Gesamt-Aug07" target="verkaufen">
+<corpus corpusname="TIGER-Gesamt-Aug07" target="">
 	<head>
 		<meta>
-			<corpus_id parent="dd3e82c8-b0c5-4d1d-af63-753b9bf12897">ef796d1e-4026-44f2-9209-551afa063add</corpus_id>
+			<corpus_id parent="77ec86ac-bf34-4273-886e-46de831f0d8a">6bf3e50d-99b5-4e53-9c79-6de2fc545363</corpus_id>
 			<history>
-				<action type="distribute" user="arbox" date="2016-12-08" time="12:59">
-					<step>Annotation</step>
-					<recipient id="13d9824a-a5c9-4052-8210-216f52984900">arbox</recipient>
+				<action type="merge" user="arbox" date="2016-12-22" time="14:39">
+					<source index="1">1992fa9b-8f33-476b-ab49-5f0067f6c455</source>
+					<source index="2">032de28c-324c-4b3d-8737-a1f62db5a0aa</source>
 				</action>
-				<action type="distribute" user="arbox" date="2016-12-08" time="15:22">
-					<step>Annotation</step>
-					<recipient id="811a6a4a-557b-4fb3-aaab-eaa8944b27cb">arbox</recipient>
-					<recipient id="ccab5209-8464-4ffd-b1e5-9b271077ff0e">s2flpras</recipient>
-					<recipient id="d1d87e52-8cf9-4ec5-8fac-429531afa807">s2labayy</recipient>
-					<recipient id="c23fda02-0543-4eeb-bbbe-64271dea7927">s2miduer</recipient>
+				<action type="save" user="arbox" date="2016-12-22" time="14:53">
+					<step>Adjudikation</step>
 				</action>
-				<action type="save" user="arbox" date="2016-12-15" time="13:24">
-					<step>Annotation</step>
+				<action type="save" user="arbox" date="2016-12-22" time="14:54">
+					<step>Adjudikation</step>
 				</action>
-				<action type="save" user="arbox" date="2016-12-15" time="13:24">
-					<step>Annotation</step>
-				</action>
-				<action type="distribute" user="arbox" date="2016-12-15" time="13:25">
-					<step>Annotation</step>
-					<recipient id="1992fa9b-8f33-476b-ab49-5f0067f6c455">Kenoboss</recipient>
-					<recipient id="032de28c-324c-4b3d-8737-a1f62db5a0aa">Michael</recipient>
-					<recipient id="ef796d1e-4026-44f2-9209-551afa063add">arbox</recipient>
-					<recipient id="bf02392d-3550-456e-82b8-4291dcf410a3">s2anvelt</recipient>
-					<recipient id="8f785d0a-8c1d-48c8-a0fc-9ae73394b778">s2flpras</recipient>
-					<recipient id="3fe74d04-df94-44ad-8408-70e3f3a24055">s2labayy</recipient>
-					<recipient id="53614e39-147a-419f-8ae6-9b3572d87f10">s2miduer</recipient>
+				<action type="distribute" user="arbox" date="2016-12-22" time="14:54">
+					<step>Adjudikation</step>
+					<recipient id="ff28e89c-88b3-4e2b-b977-71d41e9aa727">s2anvelt</recipient>
+					<recipient id="6bf3e50d-99b5-4e53-9c79-6de2fc545363">siwer</recipient>
 				</action>
 			</history>
 			<format>NeGra format, version 3</format>
@@ -1672,6 +1660,19 @@
 			<sem>
 				<globals>
 				</globals>
+				<frames>
+					<frame name="Commerce_sell" id="s5814_f1">
+						<target>
+							<fenode idref="s5814_10"/>
+						</target>
+						<fe name="Goods" id="s5814_f1_e1">
+							<fenode idref="s5814_506"/>
+						</fe>
+						<fe name="Seller" id="s5814_f1_e2">
+							<fenode idref="s5814_501"/>
+						</fe>
+					</frame>
+				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -2368,6 +2369,16 @@
 			<sem>
 				<globals>
 				</globals>
+				<frames>
+					<frame name="Commerce_sell" id="s6988_f1">
+						<target>
+							<fenode idref="s6988_5"/>
+						</target>
+						<fe name="Goods" id="s6988_f1_e1">
+							<fenode idref="s6988_3"/>
+						</fe>
+					</frame>
+				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -3290,6 +3301,16 @@
 			<sem>
 				<globals>
 				</globals>
+				<frames>
+					<frame name="Commerce_sell" id="s9798_f1">
+						<target>
+							<fenode idref="s9798_1"/>
+						</target>
+						<fe name="Goods" id="s9798_f1_e1">
+							<fenode idref="s9798_505"/>
+						</fe>
+					</frame>
+				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4141,6 +4162,19 @@
 			<sem>
 				<globals>
 				</globals>
+				<frames>
+					<frame name="Commerce_sell" id="s13308_f1">
+						<target>
+							<fenode idref="s13308_6"/>
+						</target>
+						<fe name="Goods" id="s13308_f1_e1">
+							<fenode idref="s13308_1"/>
+						</fe>
+						<fe name="Goods" id="s13308_f1_e2" source="2">
+							<fenode idref="s13308_504"/>
+						</fe>
+					</frame>
+				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
@@ -4609,6 +4643,22 @@
 			<sem>
 				<globals>
 				</globals>
+				<frames>
+					<frame name="Commerce_sell" id="s13981_f1">
+						<target>
+							<fenode idref="s13981_2"/>
+						</target>
+						<fe name="Buyer" id="s13981_f1_e1" source="1">
+							<fenode idref="s13981_501"/>
+						</fe>
+						<fe name="Goods" id="s13981_f1_e2">
+							<fenode idref="s13981_500"/>
+						</fe>
+						<fe name="Seller" id="s13981_f1_e3">
+							<fenode idref="s13981_3"/>
+						</fe>
+					</frame>
+				</frames>
 				<usp>
 					<uspframes>
 					</uspframes>
