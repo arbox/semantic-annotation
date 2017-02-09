@@ -18,6 +18,27 @@
 				<action type="save" user="Kenoboss" date="2017-02-08" time="23:00">
 					<step>Metaadjudikation</step>
 				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="12:56">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:19">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:28">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:30">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:31">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:33">
+					<step>Metaadjudikation</step>
+				</action>
+				<action type="save" user="Kenoboss" date="2017-02-09" time="13:33">
+					<step>Metaadjudikation</step>
+				</action>
 			</history>
 			<format>NeGra format, version 3</format>
 		</meta>
@@ -17740,7 +17761,7 @@
 							<fenode idref="s63362_525"/>
 						</fe>
 					</frame>
-					<frame name="Law" id="s63362_f5" source="2">
+					<frame name="Law" id="s63362_f5">
 						<target>
 							<fenode idref="s63362_13"/>
 						</target>
@@ -17943,10 +17964,7 @@
 						<target>
 							<fenode idref="s63364_1"/>
 						</target>
-						<fe name="Person" id="s63364_f1_e1" source="1">
-							<fenode idref="s63364_1"/>
-						</fe>
-						<fe name="Person" id="s63364_f1_e2" source="2">
+						<fe name="Person" id="s63364_f1_e1" source="2">
 							<fenode idref="s63364_500"/>
 						</fe>
 					</frame>
@@ -18105,7 +18123,7 @@
 							<fenode idref="s63365_517"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63365_f2" source="1">
+					<frame name="People" id="s63365_f2">
 						<target>
 							<fenode idref="s63365_11"/>
 						</target>
@@ -18150,19 +18168,19 @@
 							<fenode idref="s63364_VROOT"/>
 						</fe>
 					</frame>
-					<frame name="Calendric_unit" id="s63365_f7" source="2">
+					<frame name="Calendric_unit" id="s63365_f7">
 						<target>
 							<fenode idref="s63365_7"/>
 						</target>
-						<fe name="Whole" id="s63365_f7_e1" source="2">
+						<fe name="Whole" id="s63365_f7_e1">
 							<fenode idref="s63365_520"/>
 						</fe>
 					</frame>
-					<frame name="People_along_political_spectrum" id="s63365_f8" source="2">
+					<frame name="People_along_political_spectrum" id="s63365_f8">
 						<target>
 							<fenode idref="s63365_15"/>
 						</target>
-						<fe name="Individual" id="s63365_f8_e1" source="2">
+						<fe name="Individual" id="s63365_f8_e1">
 							<fenode idref="s63365_515"/>
 						</fe>
 					</frame>
@@ -18316,10 +18334,7 @@
 						<target>
 							<fenode idref="s63366_9"/>
 						</target>
-						<fe name="Person" id="s63366_f1_e1" source="1">
-							<fenode idref="s63366_9"/>
-						</fe>
-						<fe name="Person" id="s63366_f1_e2" source="2">
+						<fe name="Person" id="s63366_f1_e1" source="2">
 							<fenode idref="s63366_517"/>
 						</fe>
 					</frame>
@@ -18327,18 +18342,15 @@
 						<target>
 							<fenode idref="s63366_11"/>
 						</target>
-						<fe name="Locale" id="s63366_f2_e1" source="1">
-							<fenode idref="s63366_11"/>
-						</fe>
-						<fe name="Locale" id="s63366_f2_e2" source="2">
+						<fe name="Locale" id="s63366_f2_e1" source="2">
 							<fenode idref="s63366_505"/>
 						</fe>
 					</frame>
-					<frame name="Entity" id="s63366_f3" source="1">
+					<frame name="Entity" id="s63366_f3">
 						<target>
 							<fenode idref="s63366_12"/>
 						</target>
-						<fe name="Entity" id="s63366_f3_e1" source="1">
+						<fe name="Entity" id="s63366_f3_e1">
 							<fenode idref="s63366_12"/>
 						</fe>
 					</frame>
@@ -18359,11 +18371,11 @@
 							<fenode idref="s63366_502"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63366_f5" source="1">
+					<frame name="People" id="s63366_f5">
 						<target>
 							<fenode idref="s63366_14"/>
 						</target>
-						<fe name="Person" id="s63366_f5_e1" source="1">
+						<fe name="Person" id="s63366_f5_e1">
 							<fenode idref="s63366_506"/>
 						</fe>
 					</frame>
@@ -18542,18 +18554,15 @@
 						<target>
 							<fenode idref="s63367_1"/>
 						</target>
-						<fe name="Person" id="s63367_f1_e1" source="1">
-							<fenode idref="s63367_1"/>
-						</fe>
-						<fe name="Person" id="s63367_f1_e2" source="2">
+						<fe name="Person" id="s63367_f1_e1" source="2">
 							<fenode idref="s63367_500"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63367_f2" source="1">
+					<frame name="People" id="s63367_f2">
 						<target>
 							<fenode idref="s63367_4"/>
 						</target>
-						<fe name="Person" id="s63367_f2_e1" source="1">
+						<fe name="Person" id="s63367_f2_e1">
 							<fenode idref="s63367_4"/>
 						</fe>
 					</frame>
@@ -18567,16 +18576,13 @@
 						<fe name="Medium" id="s63367_f3_e2" source="1">
 							<fenode idref="s63367_19"/>
 						</fe>
-						<fe name="Topic" id="s63367_f3_e3" source="1">
-							<fenode idref="s63367_9"/>
-						</fe>
-						<fe name="Evaluee" id="s63367_f3_e4" source="1">
+						<fe name="Evaluee" id="s63367_f3_e3" source="1">
 							<fenode idref="s63362_9"/>
 						</fe>
-						<fe name="Topic" id="s63367_f3_e5" source="2">
+						<fe name="Topic" id="s63367_f3_e4" source="2">
 							<fenode idref="s63367_505"/>
 						</fe>
-						<fe name="Expressor" id="s63367_f3_e6" source="2">
+						<fe name="Expressor" id="s63367_f3_e5" source="2">
 							<fenode idref="s63367_507"/>
 						</fe>
 					</frame>
@@ -18598,18 +18604,15 @@
 						<fe name="Publisher" id="s63367_f5_e1">
 							<fenode idref="s63367_507"/>
 						</fe>
-						<fe name="Work" id="s63367_f5_e2" source="1">
-							<fenode idref="s63367_9"/>
-						</fe>
-						<fe name="Work" id="s63367_f5_e3" source="2">
+						<fe name="Work" id="s63367_f5_e2" source="2">
 							<fenode idref="s63367_505"/>
 						</fe>
 					</frame>
-					<frame name="Morality_evaluation" id="s63367_f6" source="2">
+					<frame name="Morality_evaluation" id="s63367_f6">
 						<target>
 							<fenode idref="s63367_24"/>
 						</target>
-						<fe name="Evaluee" id="s63367_f6_e1" source="2">
+						<fe name="Evaluee" id="s63367_f6_e1">
 							<fenode idref="s63367_502"/>
 						</fe>
 					</frame>
@@ -18755,14 +18758,14 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Information" id="s63368_f1" source="1">
+					<frame name="Information" id="s63368_f1">
 						<target>
 							<fenode idref="s63368_3"/>
 						</target>
-						<fe name="Information" id="s63368_f1_e1" source="1">
+						<fe name="Information" id="s63368_f1_e1">
 							<fenode idref="s63368_522"/>
 						</fe>
-						<fe name="Cognizer" id="s63368_f1_e2" source="1">
+						<fe name="Cognizer" id="s63368_f1_e2">
 							<fenode idref="s63368_500"/>
 						</fe>
 					</frame>
@@ -18822,11 +18825,11 @@
 							<fenode idref="s63368_507"/>
 						</fe>
 					</frame>
-					<frame name="Entity" id="s63368_f6" source="1">
+					<frame name="Entity" id="s63368_f6">
 						<target>
 							<fenode idref="s63368_18"/>
 						</target>
-						<fe name="Entity" id="s63368_f6_e1" source="1">
+						<fe name="Entity" id="s63368_f6_e1">
 							<fenode idref="s63368_18"/>
 						</fe>
 					</frame>
@@ -19095,27 +19098,27 @@
 							<fenode idref="s63369_532"/>
 						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63369_f3" source="1">
+					<frame name="People_by_vocation" id="s63369_f3">
 						<target>
 							<fenode idref="s63369_29"/>
 						</target>
-						<fe name="Person" id="s63369_f3_e1" source="1">
+						<fe name="Person" id="s63369_f3_e1">
 							<fenode idref="s63369_29"/>
 						</fe>
 					</frame>
-					<frame name="Entity" id="s63369_f4" source="1">
+					<frame name="Entity" id="s63369_f4">
 						<target>
 							<fenode idref="s63369_32"/>
 						</target>
-						<fe name="Entity" id="s63369_f4_e1" source="1">
+						<fe name="Entity" id="s63369_f4_e1">
 							<fenode idref="s63369_32"/>
 						</fe>
 					</frame>
-					<frame name="Calendric_unit" id="s63369_f5" source="2">
+					<frame name="Calendric_unit" id="s63369_f5">
 						<target>
 							<fenode idref="s63369_24"/>
 						</target>
-						<fe name="Whole" id="s63369_f5_e1" source="2">
+						<fe name="Whole" id="s63369_f5_e1">
 							<fenode idref="s63369_524"/>
 						</fe>
 					</frame>
@@ -19335,40 +19338,31 @@
 							<fenode idref="s63370_525"/>
 						</fe>
 					</frame>
-					<frame name="Reveal_secret" id="s63370_f4" source="1">
+					<frame name="Reveal_secret" id="s63370_f4">
 						<target>
 							<fenode idref="s63370_22"/>
 						</target>
-						<fe name="Speaker" id="s63370_f4_e1" source="1">
+						<fe name="Speaker" id="s63370_f4_e1">
 							<fenode idref="s63367_4"/>
-						</fe>
-						<fe name="Information" id="s63370_f4_e2" source="1">
-							<fenode idref="s63367_527"/>
 						</fe>
 					</frame>
 					<frame name="Reveal_secret" id="s63370_f5">
 						<target>
 							<fenode idref="s63370_24"/>
 						</target>
-						<fe name="Information" id="s63370_f5_e1" source="1">
-							<fenode idref="s63370_13"/>
-						</fe>
-						<fe name="Speaker" id="s63370_f5_e2" source="2">
+						<fe name="Speaker" id="s63370_f5_e1" source="2">
 							<fenode idref="s63370_22"/>
 						</fe>
-						<fe name="Information" id="s63370_f5_e3" source="2">
+						<fe name="Information" id="s63370_f5_e2" source="2">
 							<fenode idref="s63370_511"/>
 							<fenode idref="s63370_518"/>
 						</fe>
-						<fe name="Medium" id="s63370_f5_e4" source="2">
-							<fenode idref="s63370_22"/>
-						</fe>
 					</frame>
-					<frame name="People" id="s63370_f6" source="1">
+					<frame name="People" id="s63370_f6">
 						<target>
 							<fenode idref="s63370_25"/>
 						</target>
-						<fe name="Person" id="s63370_f6_e1" source="1">
+						<fe name="Person" id="s63370_f6_e1">
 							<fenode idref="s63370_511"/>
 						</fe>
 					</frame>
@@ -19618,14 +19612,14 @@
 							<fenode idref="s63371_505"/>
 						</fe>
 					</frame>
-					<frame name="Perception_active" id="s63371_f4" source="1">
+					<frame name="Perception_active" id="s63371_f4">
 						<target>
 							<fenode idref="s63371_12"/>
 						</target>
-						<fe name="Perceiver_agentive" id="s63371_f4_e1" source="1">
+						<fe name="Perceiver_agentive" id="s63371_f4_e1">
 							<fenode idref="s63371_8"/>
 						</fe>
-						<fe name="Direction" id="s63371_f4_e2" source="1">
+						<fe name="Direction" id="s63371_f4_e2">
 							<fenode idref="s63371_524"/>
 						</fe>
 					</frame>
@@ -19656,28 +19650,28 @@
 							<fenode idref="s63371_517"/>
 						</fe>
 					</frame>
-					<frame name="Standing_by" id="s63371_f7" source="1">
+					<frame name="Standing_by" id="s63371_f7">
 						<target>
 							<fenode idref="s63371_30"/>
 						</target>
-						<fe name="Activity" id="s63371_f7_e1" source="1">
+						<fe name="Activity" id="s63371_f7_e1">
 							<fenode idref="s63371_12"/>
 						</fe>
-						<fe name="Expected_request" id="s63371_f7_e2" source="1">
+						<fe name="Expected_request" id="s63371_f7_e2">
 							<fenode idref="s63371_12"/>
 						</fe>
-						<fe name="Protagonist" id="s63371_f7_e3" source="1">
+						<fe name="Protagonist" id="s63371_f7_e3">
 							<fenode idref="s63371_8"/>
 						</fe>
-						<fe name="Salient_entity" id="s63371_f7_e4" source="1">
+						<fe name="Salient_entity" id="s63371_f7_e4">
 							<fenode idref="s63371_29"/>
 						</fe>
 					</frame>
-					<frame name="Building_subparts" id="s63371_f8" source="2">
+					<frame name="Building_subparts" id="s63371_f8">
 						<target>
 							<fenode idref="s63371_15"/>
 						</target>
-						<fe name="Building_part" id="s63371_f8_e1" source="2">
+						<fe name="Building_part" id="s63371_f8_e1">
 							<fenode idref="s63371_15"/>
 						</fe>
 					</frame>
@@ -20101,26 +20095,23 @@
 						<target>
 							<fenode idref="s63372_35"/>
 						</target>
-						<fe name="Representative" id="s63372_f1_e1" source="1">
-							<fenode idref="s63372_35"/>
-						</fe>
-						<fe name="Representative" id="s63372_f1_e2" source="2">
+						<fe name="Representative" id="s63372_f1_e1" source="2">
 							<fenode idref="s63372_520"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63372_f2" source="1">
+					<frame name="People" id="s63372_f2">
 						<target>
 							<fenode idref="s63372_7"/>
 						</target>
-						<fe name="Person" id="s63372_f2_e1" source="1">
+						<fe name="Person" id="s63372_f2_e1">
 							<fenode idref="s63372_7"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63372_f3" source="1">
+					<frame name="People" id="s63372_f3">
 						<target>
 							<fenode idref="s63372_16"/>
 						</target>
-						<fe name="Person" id="s63372_f3_e1" source="1">
+						<fe name="Person" id="s63372_f3_e1">
 							<fenode idref="s63372_539"/>
 						</fe>
 					</frame>
@@ -20160,11 +20151,11 @@
 							<fenode idref="s63372_569"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63372_f7" source="1">
+					<frame name="People" id="s63372_f7">
 						<target>
 							<fenode idref="s63372_44"/>
 						</target>
-						<fe name="Person" id="s63372_f7_e1" source="1">
+						<fe name="Person" id="s63372_f7_e1">
 							<fenode idref="s63372_524"/>
 						</fe>
 					</frame>
@@ -20175,15 +20166,12 @@
 						<fe name="Person" id="s63372_f8_e1" source="1">
 							<fenode idref="s63372_48"/>
 						</fe>
-						<fe name="Person" id="s63372_f8_e2" source="2">
-							<fenode idref="s63372_565"/>
-						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63372_f9" source="1">
+					<frame name="People_by_vocation" id="s63372_f9">
 						<target>
 							<fenode idref="s63372_51"/>
 						</target>
-						<fe name="Person" id="s63372_f9_e1" source="1">
+						<fe name="Person" id="s63372_f9_e1">
 							<fenode idref="s63372_51"/>
 						</fe>
 					</frame>
@@ -20198,19 +20186,19 @@
 							<fenode idref="s63372_556"/>
 						</fe>
 					</frame>
-					<frame name="Government_institution" id="s63372_f11" source="1">
+					<frame name="Government_institution" id="s63372_f11">
 						<target>
 							<fenode idref="s63372_54"/>
 						</target>
-						<fe name="Institution" id="s63372_f11_e1" source="1">
+						<fe name="Institution" id="s63372_f11_e1">
 							<fenode idref="s63372_549"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63372_f12" source="1">
+					<frame name="People" id="s63372_f12">
 						<target>
 							<fenode idref="s63372_57"/>
 						</target>
-						<fe name="Person" id="s63372_f12_e1" source="1">
+						<fe name="Person" id="s63372_f12_e1">
 							<fenode idref="s63372_528"/>
 						</fe>
 					</frame>
@@ -20357,11 +20345,11 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Entity" id="s63373_f1" source="1">
+					<frame name="Entity" id="s63373_f1">
 						<target>
 							<fenode idref="s63373_5"/>
 						</target>
-						<fe name="Entity" id="s63373_f1_e1" source="1">
+						<fe name="Entity" id="s63373_f1_e1">
 							<fenode idref="s63373_5"/>
 						</fe>
 					</frame>
@@ -20369,16 +20357,10 @@
 						<target>
 							<fenode idref="s63373_9"/>
 						</target>
-						<fe name="Defense" id="s63373_f2_e1" source="1">
-							<fenode idref="s63373_9"/>
-						</fe>
-						<fe name="Prosecution" id="s63373_f2_e2" source="1">
-							<fenode idref="s63373_5"/>
-						</fe>
-						<fe name="Defense" id="s63373_f2_e3" source="2">
+						<fe name="Defense" id="s63373_f2_e1" source="2">
 							<fenode idref="s63373_506"/>
 						</fe>
-						<fe name="Prosecution" id="s63373_f2_e4" source="2">
+						<fe name="Prosecution" id="s63373_f2_e2" source="2">
 							<fenode idref="s63373_505"/>
 						</fe>
 					</frame>
@@ -20895,18 +20877,12 @@
 							<fenode idref="s63376_515"/>
 							<fenode idref="s63376_13"/>
 						</fe>
-						<fe name="Person" id="s63376_f1_e2" source="2">
-							<fenode idref="s63376_515"/>
-						</fe>
 					</frame>
 					<frame name="Government_institution" id="s63376_f2">
 						<target>
 							<fenode idref="s63376_12"/>
 						</target>
-						<fe name="Institution" id="s63376_f2_e1" source="1">
-							<fenode idref="s63376_12"/>
-						</fe>
-						<fe name="Institution" id="s63376_f2_e2" source="2">
+						<fe name="Institution" id="s63376_f2_e1" source="2">
 							<fenode idref="s63376_506"/>
 						</fe>
 					</frame>
@@ -20941,11 +20917,11 @@
 							<fenode idref="s63376_520"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63376_f5" source="2">
+					<frame name="People" id="s63376_f5">
 						<target>
 							<fenode idref="s63376_13"/>
 						</target>
-						<fe name="Person" id="s63376_f5_e1" source="2">
+						<fe name="Person" id="s63376_f5_e1">
 							<fenode idref="s63376_507"/>
 						</fe>
 					</frame>
@@ -21174,17 +21150,14 @@
 						<fe name="Responsible_party" id="s63377_f2_e1">
 							<fenode idref="s63377_510"/>
 						</fe>
-						<fe name="Duty" id="s63377_f2_e2" source="1">
-							<fenode idref="s63377_523"/>
-						</fe>
-						<fe name="Obligator" id="s63377_f2_e3" source="1">
+						<fe name="Obligator" id="s63377_f2_e2" source="1">
 							<fenode idref="s63377_511"/>
 						</fe>
-						<fe name="Duty" id="s63377_f2_e4" source="2">
+						<fe name="Duty" id="s63377_f2_e3" source="2">
 							<fenode idref="s63377_523"/>
 							<fenode idref="s63377_531"/>
 						</fe>
-						<fe name="Principle" id="s63377_f2_e5" source="2">
+						<fe name="Principle" id="s63377_f2_e4" source="2">
 							<fenode idref="s63377_522"/>
 						</fe>
 					</frame>
@@ -21347,10 +21320,7 @@
 						<fe name="Topic" id="s63378_f1_e1" source="1">
 							<fenode idref="s63378_520"/>
 						</fe>
-						<fe name="Topic" id="s63378_f1_e2" source="2">
-							<fenode idref="s63378_513"/>
-						</fe>
-						<fe name="Medium" id="s63378_f1_e3" source="2">
+						<fe name="Medium" id="s63378_f1_e2" source="2">
 							<fenode idref="s63378_512"/>
 						</fe>
 					</frame>
@@ -21374,10 +21344,7 @@
 						<target>
 							<fenode idref="s63378_19"/>
 						</target>
-						<fe name="Person" id="s63378_f4_e1" source="1">
-							<fenode idref="s63378_19"/>
-						</fe>
-						<fe name="Person" id="s63378_f4_e2" source="2">
+						<fe name="Person" id="s63378_f4_e1" source="2">
 							<fenode idref="s63378_507"/>
 						</fe>
 					</frame>
@@ -21389,30 +21356,30 @@
 							<fenode idref="s63378_515"/>
 						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63378_f6" source="2">
+					<frame name="People_by_vocation" id="s63378_f6">
 						<target>
 							<fenode idref="s63378_23"/>
 						</target>
-						<fe name="Person" id="s63378_f6_e1" source="2">
+						<fe name="Person" id="s63378_f6_e1">
 							<fenode idref="s63378_509"/>
 						</fe>
 					</frame>
-					<frame name="Possession" id="s63378_f7" source="2">
+					<frame name="Possession" id="s63378_f7">
 						<target>
 							<fenode idref="s63378_21"/>
 						</target>
-						<fe name="Owner" id="s63378_f7_e1" source="2">
+						<fe name="Owner" id="s63378_f7_e1">
 							<fenode idref="s63378_509"/>
 						</fe>
-						<fe name="Possession" id="s63378_f7_e2" source="2">
+						<fe name="Possession" id="s63378_f7_e2">
 							<fenode idref="s63378_508"/>
 						</fe>
 					</frame>
-					<frame name="Communication_manner" id="s63378_f8" source="2">
+					<frame name="Communication_manner" id="s63378_f8">
 						<target>
 							<fenode idref="s63378_16"/>
 						</target>
-						<fe name="Addressee" id="s63378_f8_e1" source="2">
+						<fe name="Addressee" id="s63378_f8_e1">
 							<fenode idref="s63378_507"/>
 						</fe>
 					</frame>
@@ -21601,17 +21568,6 @@
 							<fenode idref="s63379_523"/>
 						</fe>
 					</frame>
-					<frame name="Reveal_secret" id="s63379_f3">
-						<target>
-							<fenode idref="s63379_8"/>
-						</target>
-						<fe name="Topic" id="s63379_f3_e1" source="1">
-							<fenode idref="s63379_8"/>
-						</fe>
-						<fe name="Topic" id="s63379_f3_e2" source="2">
-							<fenode idref="s63379_513"/>
-						</fe>
-					</frame>
 					<frame name="Government_institution" id="s63379_f4">
 						<target>
 							<fenode idref="s63379_11"/>
@@ -21654,13 +21610,10 @@
 						<target>
 							<fenode idref="s63379_19"/>
 						</target>
-						<fe name="Member" id="s63379_f8_e1" source="1">
-							<fenode idref="s63379_19"/>
-						</fe>
-						<fe name="Group" id="s63379_f8_e2">
+						<fe name="Group" id="s63379_f8_e1">
 							<fenode idref="s63379_520"/>
 						</fe>
-						<fe name="Member" id="s63379_f8_e3" source="2">
+						<fe name="Member" id="s63379_f8_e2" source="2">
 							<fenode idref="s63379_508"/>
 						</fe>
 					</frame>
@@ -21672,27 +21625,27 @@
 							<fenode idref="s63379_22"/>
 						</fe>
 					</frame>
-					<frame name="Entity" id="s63379_f10" source="1">
+					<frame name="Entity" id="s63379_f10">
 						<target>
 							<fenode idref="s63379_24"/>
 						</target>
-						<fe name="Entity" id="s63379_f10_e1" source="1">
+						<fe name="Entity" id="s63379_f10_e1">
 							<fenode idref="s63379_24"/>
 						</fe>
 					</frame>
-					<frame name="Government_institution" id="s63379_f11" source="2">
+					<frame name="Government_institution" id="s63379_f11">
 						<target>
 							<fenode idref="s63379_6"/>
 						</target>
-						<fe name="Institution" id="s63379_f11_e1" source="2">
+						<fe name="Institution" id="s63379_f11_e1">
 							<fenode idref="s63379_502"/>
 						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63379_f12" source="2">
+					<frame name="People_by_vocation" id="s63379_f12">
 						<target>
 							<fenode idref="s63379_22"/>
 						</target>
-						<fe name="Person" id="s63379_f12_e1" source="2">
+						<fe name="Person" id="s63379_f12_e1">
 							<fenode idref="s63379_520"/>
 						</fe>
 					</frame>
@@ -21700,6 +21653,14 @@
 						<target>
 							<fenode idref="s63379_24"/>
 						</target>
+					</frame>
+					<frame name="Reveal_secret" id="s63379_f3">
+						<target>
+							<fenode idref="s63379_8"/>
+						</target>
+						<fe name="Topic" id="s63379_f3_e1" source="2">
+							<fenode idref="s63379_513"/>
+						</fe>
 					</frame>
 				</frames>
 				<usp>
@@ -21826,18 +21787,12 @@
 							<fenode idref="s63380_6"/>
 							<fenode idref="s63380_1"/>
 						</fe>
-						<fe name="Representative" id="s63380_f2_e2" source="2">
-							<fenode idref="s63380_509"/>
-						</fe>
 					</frame>
 					<frame name="People_by_vocation" id="s63380_f3">
 						<target>
 							<fenode idref="s63380_8"/>
 						</target>
-						<fe name="Person" id="s63380_f3_e1" source="1">
-							<fenode idref="s63380_8"/>
-						</fe>
-						<fe name="Person" id="s63380_f3_e2" source="2">
+						<fe name="Person" id="s63380_f3_e1" source="2">
 							<fenode idref="s63380_504"/>
 						</fe>
 					</frame>
@@ -21845,10 +21800,7 @@
 						<target>
 							<fenode idref="s63380_12"/>
 						</target>
-						<fe name="Person" id="s63380_f4_e1" source="1">
-							<fenode idref="s63380_12"/>
-						</fe>
-						<fe name="Person" id="s63380_f4_e2" source="2">
+						<fe name="Person" id="s63380_f4_e1" source="2">
 							<fenode idref="s63380_506"/>
 						</fe>
 					</frame>
@@ -22090,11 +22042,11 @@
 							<fenode idref="s63381_531"/>
 						</fe>
 					</frame>
-					<frame name="Entity" id="s63381_f4" source="1">
+					<frame name="Entity" id="s63381_f4">
 						<target>
 							<fenode idref="s63381_15"/>
 						</target>
-						<fe name="Entity" id="s63381_f4_e1" source="1">
+						<fe name="Entity" id="s63381_f4_e1">
 							<fenode idref="s63381_15"/>
 						</fe>
 					</frame>
@@ -22373,13 +22325,7 @@
 							<fenode idref="s63382_36"/>
 							<fenode idref="s63382_25"/>
 						</fe>
-						<fe name="Medium" id="s63382_f2_e2" source="1">
-							<fenode idref="s63382_34"/>
-						</fe>
-						<fe name="Communicator" id="s63382_f2_e3" source="2">
-							<fenode idref="s63382_512"/>
-						</fe>
-						<fe name="Medium" id="s63382_f2_e4" source="2">
+						<fe name="Medium" id="s63382_f2_e2" source="2">
 							<fenode idref="s63382_527"/>
 						</fe>
 					</frame>
@@ -22531,22 +22477,11 @@
 						<fe name="Effect" id="s63383_f1_e2" source="1">
 							<fenode idref="s63383_5"/>
 						</fe>
-						<fe name="Cause" id="s63383_f1_e3" source="2">
-							<fenode idref="s63383_504"/>
-						</fe>
-						<fe name="Affected" id="s63383_f1_e4" source="2">
+						<fe name="Affected" id="s63383_f1_e3" source="2">
 							<fenode idref="s63383_505"/>
 						</fe>
-						<fe name="Actor" id="s63383_f1_e5" source="2">
+						<fe name="Actor" id="s63383_f1_e4" source="2">
 							<fenode idref="s63383_500"/>
-						</fe>
-					</frame>
-					<frame name="People" id="s63383_f2" source="1">
-						<target>
-							<fenode idref="s63383_1"/>
-						</target>
-						<fe name="Person" id="s63383_f2_e1" source="1">
-							<fenode idref="s63383_1"/>
 						</fe>
 					</frame>
 					<frame name="People_by_vocation" id="s63383_f3">
@@ -22569,6 +22504,14 @@
 						</fe>
 						<fe name="Individual" id="s63383_f4_e2" source="2">
 							<fenode idref="s63383_505"/>
+						</fe>
+					</frame>
+					<frame name="People" id="s63383_f2">
+						<target>
+							<fenode idref="s63383_1"/>
+						</target>
+						<fe name="Person" id="s63383_f2_e1">
+							<fenode idref="s63383_1"/>
 						</fe>
 					</frame>
 				</frames>
@@ -22627,10 +22570,7 @@
 						<target>
 							<fenode idref="s63384_1"/>
 						</target>
-						<fe name="Case" id="s63384_f1_e1" source="1">
-							<fenode idref="s63384_1"/>
-						</fe>
-						<fe name="Case" id="s63384_f1_e2" source="2">
+						<fe name="Case" id="s63384_f1_e1" source="2">
 							<fenode idref="s63384_500"/>
 						</fe>
 					</frame>
@@ -22794,19 +22734,16 @@
 						<target>
 							<fenode idref="s63385_8"/>
 						</target>
-						<fe name="Cause" id="s63385_f1_e1" source="1">
-							<fenode idref="s63385_10"/>
-						</fe>
-						<fe name="Affected" id="s63385_f1_e2" source="1">
+						<fe name="Affected" id="s63385_f1_e1" source="1">
 							<fenode idref="s63385_13"/>
 						</fe>
-						<fe name="Effect" id="s63385_f1_e3" source="1">
+						<fe name="Effect" id="s63385_f1_e2" source="1">
 							<fenode idref="s63385_8"/>
 						</fe>
-						<fe name="Cause" id="s63385_f1_e4" source="2">
+						<fe name="Cause" id="s63385_f1_e3" source="2">
 							<fenode idref="s63385_522"/>
 						</fe>
-						<fe name="Actor" id="s63385_f1_e5" source="2">
+						<fe name="Actor" id="s63385_f1_e4" source="2">
 							<fenode idref="s63385_505"/>
 						</fe>
 					</frame>
@@ -22817,10 +22754,7 @@
 						<fe name="Defense" id="s63385_f2_e1" source="1">
 							<fenode idref="s63385_21"/>
 						</fe>
-						<fe name="Case" id="s63385_f2_e2" source="1">
-							<fenode idref="s63385_13"/>
-						</fe>
-						<fe name="Case" id="s63385_f2_e3" source="2">
+						<fe name="Case" id="s63385_f2_e2" source="2">
 							<fenode idref="s63385_506"/>
 						</fe>
 					</frame>
@@ -22846,11 +22780,11 @@
 							<fenode idref="s63385_509"/>
 						</fe>
 					</frame>
-					<frame name="Building_subparts" id="s63385_f5" source="2">
+					<frame name="Building_subparts" id="s63385_f5">
 						<target>
 							<fenode idref="s63385_21"/>
 						</target>
-						<fe name="Building_part" id="s63385_f5_e1" source="2">
+						<fe name="Building_part" id="s63385_f5_e1">
 							<fenode idref="s63385_509"/>
 						</fe>
 					</frame>
@@ -23018,13 +22952,10 @@
 						<target>
 							<fenode idref="s63386_15"/>
 						</target>
-						<fe name="Process" id="s63386_f1_e1" source="1">
-							<fenode idref="s63386_18"/>
-						</fe>
-						<fe name="Cause" id="s63386_f1_e2">
+						<fe name="Cause" id="s63386_f1_e1">
 							<fenode idref="s63386_526"/>
 						</fe>
-						<fe name="Process" id="s63386_f1_e3" source="2">
+						<fe name="Process" id="s63386_f1_e2" source="2">
 							<fenode idref="s63386_520"/>
 						</fe>
 					</frame>
@@ -23115,23 +23046,20 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Government_institution" id="s63387_f1">
-						<target>
-							<fenode idref="s63387_7"/>
-						</target>
-						<fe name="Institution" id="s63387_f1_e1" source="1">
-							<fenode idref="s63387_7"/>
-						</fe>
-						<fe name="Institution" id="s63387_f1_e2" source="2">
-							<fenode idref="s63387_509"/>
-						</fe>
-					</frame>
 					<frame name="Locale" id="s63387_f2" source="2">
 						<target>
 							<fenode idref="s63387_6"/>
 						</target>
 						<fe name="Locale" id="s63387_f2_e1" source="2">
 							<fenode idref="s63387_504"/>
+						</fe>
+					</frame>
+					<frame name="Government_institution" id="s63387_f1">
+						<target>
+							<fenode idref="s63387_7"/>
+						</target>
+						<fe name="Institution" id="s63387_f1_e1" source="2">
+							<fenode idref="s63387_509"/>
 						</fe>
 					</frame>
 				</frames>
@@ -23346,16 +23274,13 @@
 						<target>
 							<fenode idref="s63388_16"/>
 						</target>
-						<fe name="Cause" id="s63388_f1_e1" source="1">
-							<fenode idref="s63388_516"/>
-						</fe>
-						<fe name="Valued_entity" id="s63388_f1_e2">
+						<fe name="Valued_entity" id="s63388_f1_e1">
 							<fenode idref="s63388_522"/>
 						</fe>
-						<fe name="Endangering_act" id="s63388_f1_e3">
+						<fe name="Endangering_act" id="s63388_f1_e2">
 							<fenode idref="s63388_535"/>
 						</fe>
-						<fe name="Cause" id="s63388_f1_e4" source="2">
+						<fe name="Cause" id="s63388_f1_e3" source="2">
 							<fenode idref="s63388_531"/>
 						</fe>
 					</frame>
@@ -23363,9 +23288,6 @@
 						<target>
 							<fenode idref="s63388_32"/>
 						</target>
-						<fe name="Information" id="s63388_f2_e1" source="1">
-							<fenode idref="s63388_522"/>
-						</fe>
 						<fe name="Topic" id="s63388_f2_e2" source="2">
 							<fenode idref="s63388_532"/>
 						</fe>
@@ -23643,26 +23565,23 @@
 						<target>
 							<fenode idref="s63389_24"/>
 						</target>
-						<fe name="Locale" id="s63389_f3_e1" source="1">
-							<fenode idref="s63389_24"/>
-						</fe>
-						<fe name="Locale" id="s63389_f3_e2" source="2">
+						<fe name="Locale" id="s63389_f3_e1" source="2">
 							<fenode idref="s63389_524"/>
 						</fe>
 					</frame>
-					<frame name="Calendric_unit" id="s63389_f4" source="2">
+					<frame name="Calendric_unit" id="s63389_f4">
 						<target>
 							<fenode idref="s63389_15"/>
 						</target>
-						<fe name="Whole" id="s63389_f4_e1" source="2">
+						<fe name="Whole" id="s63389_f4_e1">
 							<fenode idref="s63389_536"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63389_f5" source="2">
+					<frame name="People" id="s63389_f5">
 						<target>
 							<fenode idref="s63389_12"/>
 						</target>
-						<fe name="Person" id="s63389_f5_e1" source="2">
+						<fe name="Person" id="s63389_f5_e1">
 							<fenode idref="s63389_506"/>
 						</fe>
 					</frame>
@@ -23945,14 +23864,14 @@
 							<fenode idref="s63390_536"/>
 						</fe>
 					</frame>
-					<frame name="Temporary_group" id="s63390_f3" source="1">
+					<frame name="Temporary_group" id="s63390_f3">
 						<target>
 							<fenode idref="s63390_30"/>
 						</target>
-						<fe name="Members" id="s63390_f3_e1" source="1">
+						<fe name="Members" id="s63390_f3_e1">
 							<fenode idref="s63390_536"/>
 						</fe>
-						<fe name="Temporary_group" id="s63390_f3_e2" source="1">
+						<fe name="Temporary_group" id="s63390_f3_e2">
 							<fenode idref="s63390_527"/>
 							<fenode idref="s63390_28"/>
 						</fe>
@@ -24096,18 +24015,15 @@
 						<target>
 							<fenode idref="s63391_1"/>
 						</target>
-						<fe name="Person" id="s63391_f1_e1" source="1">
-							<fenode idref="s63391_1"/>
-						</fe>
-						<fe name="Person" id="s63391_f1_e2" source="2">
+						<fe name="Person" id="s63391_f1_e1" source="2">
 							<fenode idref="s63391_500"/>
 						</fe>
 					</frame>
-					<frame name="Trial" id="s63391_f2" source="1">
+					<frame name="Trial" id="s63391_f2">
 						<target>
 							<fenode idref="s63391_10"/>
 						</target>
-						<fe name="Case" id="s63391_f2_e1" source="1">
+						<fe name="Case" id="s63391_f2_e1">
 							<fenode idref="s63391_10"/>
 						</fe>
 					</frame>
@@ -24313,23 +24229,20 @@
 						<fe name="Locale" id="s63392_f2_e1" source="1">
 							<fenode idref="s63392_5"/>
 						</fe>
-						<fe name="Locale" id="s63392_f2_e2" source="2">
-							<fenode idref="s63392_520"/>
-						</fe>
 					</frame>
-					<frame name="Locale" id="s63392_f3" source="1">
+					<frame name="Locale" id="s63392_f3">
 						<target>
 							<fenode idref="s63392_7"/>
 						</target>
-						<fe name="Locale" id="s63392_f3_e1" source="1">
+						<fe name="Locale" id="s63392_f3_e1">
 							<fenode idref="s63392_7"/>
 						</fe>
 					</frame>
-					<frame name="Locale" id="s63392_f4" source="1">
+					<frame name="Locale" id="s63392_f4">
 						<target>
 							<fenode idref="s63392_9"/>
 						</target>
-						<fe name="Locale" id="s63392_f4_e1" source="1">
+						<fe name="Locale" id="s63392_f4_e1">
 							<fenode idref="s63392_9"/>
 						</fe>
 					</frame>
@@ -24487,16 +24400,10 @@
 						<target>
 							<fenode idref="s63393_12"/>
 						</target>
-						<fe name="Agent" id="s63393_f1_e1" source="1">
-							<fenode idref="s63393_6"/>
-						</fe>
-						<fe name="Speaker" id="s63393_f1_e2" source="1">
-							<fenode idref="s63393_6"/>
-						</fe>
-						<fe name="Agent" id="s63393_f1_e3" source="2">
+						<fe name="Agent" id="s63393_f1_e1" source="2">
 							<fenode idref="s63393_510"/>
 						</fe>
-						<fe name="Speaker" id="s63393_f1_e4" source="2">
+						<fe name="Speaker" id="s63393_f1_e2" source="2">
 							<fenode idref="s63393_503"/>
 						</fe>
 					</frame>
@@ -24512,10 +24419,7 @@
 						<target>
 							<fenode idref="s63393_17"/>
 						</target>
-						<fe name="Money" id="s63393_f3_e1" source="1">
-							<fenode idref="s63393_17"/>
-						</fe>
-						<fe name="Money" id="s63393_f3_e2" source="2">
+						<fe name="Money" id="s63393_f3_e1" source="2">
 							<fenode idref="s63393_512"/>
 						</fe>
 					</frame>
@@ -24822,15 +24726,12 @@
 						<fe name="Protagonist" id="s63395_f1_e1" source="1">
 							<fenode idref="s63395_523"/>
 						</fe>
-						<fe name="Protagonist" id="s63395_f1_e2" source="2">
-							<fenode idref="s63395_507"/>
-						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63395_f2" source="1">
+					<frame name="People_by_vocation" id="s63395_f2">
 						<target>
 							<fenode idref="s63395_10"/>
 						</target>
-						<fe name="Person" id="s63395_f2_e1" source="1">
+						<fe name="Person" id="s63395_f2_e1">
 							<fenode idref="s63395_521"/>
 						</fe>
 					</frame>
@@ -24992,21 +24893,15 @@
 							<fenode idref="s63396_500"/>
 							<fenode idref="s63396_509"/>
 						</fe>
-						<fe name="Intoxicant" id="s63396_f1_e2" source="1">
-							<fenode idref="s63396_25"/>
-						</fe>
-						<fe name="Cognizer" id="s63396_f1_e3" source="2">
-							<fenode idref="s63396_520"/>
-						</fe>
-						<fe name="Intoxicant" id="s63396_f1_e4" source="2">
+						<fe name="Intoxicant" id="s63396_f1_e2" source="2">
 							<fenode idref="s63396_508"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63396_f2" source="2">
+					<frame name="People" id="s63396_f2">
 						<target>
 							<fenode idref="s63396_1"/>
 						</target>
-						<fe name="Person" id="s63396_f2_e1" source="2">
+						<fe name="Person" id="s63396_f2_e1">
 							<fenode idref="s63396_520"/>
 						</fe>
 					</frame>
@@ -25175,22 +25070,19 @@
 						<target>
 							<fenode idref="s63397_12"/>
 						</target>
-						<fe name="Cognizer" id="s63397_f2_e1" source="1">
-							<fenode idref="s63397_12"/>
-						</fe>
-						<fe name="Cognizer" id="s63397_f2_e2" source="2">
+						<fe name="Cognizer" id="s63397_f2_e1" source="2">
 							<fenode idref="s63397_522"/>
 						</fe>
 					</frame>
-					<frame name="Trial" id="s63397_f3" source="2">
+					<frame name="Trial" id="s63397_f3">
 						<target>
 							<fenode idref="s63397_2"/>
 						</target>
-						<fe name="Prosecution" id="s63397_f3_e1" source="2">
+						<fe name="Prosecution" id="s63397_f3_e1">
 							<fenode idref="s63397_511"/>
 							<fenode idref="s63397_503"/>
 						</fe>
-						<fe name="Defendant" id="s63397_f3_e2" source="2">
+						<fe name="Defendant" id="s63397_f3_e2">
 							<fenode idref="s63397_500"/>
 							<fenode idref="s63397_503"/>
 						</fe>
@@ -25390,10 +25282,7 @@
 						<fe name="Entity" id="s63398_f2_e1">
 							<fenode idref="s63398_19"/>
 						</fe>
-						<fe name="Degree" id="s63398_f2_e2" source="1">
-							<fenode idref="s63398_18"/>
-						</fe>
-						<fe name="Degree" id="s63398_f2_e3" source="2">
+						<fe name="Degree" id="s63398_f2_e2" source="2">
 							<fenode idref="s63398_507"/>
 						</fe>
 					</frame>
@@ -25408,15 +25297,15 @@
 							<fenode idref="s63398_19"/>
 						</fe>
 					</frame>
-					<frame name="Trial" id="s63398_f4" source="2">
+					<frame name="Trial" id="s63398_f4">
 						<target>
 							<fenode idref="s63398_22"/>
 						</target>
-						<fe name="Defendant" id="s63398_f4_e1" source="2">
+						<fe name="Defendant" id="s63398_f4_e1">
 							<fenode idref="s63398_508"/>
 							<fenode idref="s63398_510"/>
 						</fe>
-						<fe name="Case" id="s63398_f4_e2" source="2">
+						<fe name="Case" id="s63398_f4_e2">
 							<fenode idref="s63398_509"/>
 						</fe>
 					</frame>
@@ -25622,11 +25511,7 @@
 						<target>
 							<fenode idref="s63399_19"/>
 						</target>
-						<fe name="Activists" id="s63399_f1_e1" source="1">
-							<fenode idref="s63399_509"/>
-							<fenode idref="s63399_3"/>
-						</fe>
-						<fe name="Activists" id="s63399_f1_e2" source="2">
+						<fe name="Activists" id="s63399_f1_e1" source="2">
 							<fenode idref="s63399_502"/>
 							<fenode idref="s63399_509"/>
 						</fe>
@@ -25635,11 +25520,7 @@
 						<target>
 							<fenode idref="s63399_20"/>
 						</target>
-						<fe name="Agent" id="s63399_f2_e1" source="1">
-							<fenode idref="s63399_3"/>
-							<fenode idref="s63399_509"/>
-						</fe>
-						<fe name="Agent" id="s63399_f2_e2" source="2">
+						<fe name="Agent" id="s63399_f2_e1" source="2">
 							<fenode idref="s63399_509"/>
 							<fenode idref="s63399_502"/>
 						</fe>
@@ -25840,19 +25721,19 @@
 							<fenode idref="s63400_517"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63400_f2" source="2">
+					<frame name="People" id="s63400_f2">
 						<target>
 							<fenode idref="s63400_9"/>
 						</target>
-						<fe name="Person" id="s63400_f2_e1" source="2">
+						<fe name="Person" id="s63400_f2_e1">
 							<fenode idref="s63400_505"/>
 						</fe>
 					</frame>
-					<frame name="Calendric_unit" id="s63400_f3" source="2">
+					<frame name="Calendric_unit" id="s63400_f3">
 						<target>
 							<fenode idref="s63400_5"/>
 						</target>
-						<fe name="Relative_time" id="s63400_f3_e1" source="2">
+						<fe name="Relative_time" id="s63400_f3_e1">
 							<fenode idref="s63400_524"/>
 							<fenode idref="s63400_529"/>
 						</fe>
@@ -26068,14 +25949,14 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Access_scenario" id="s63401_f1" source="1">
+					<frame name="Access_scenario" id="s63401_f1">
 						<target>
 							<fenode idref="s63401_3"/>
 						</target>
-						<fe name="Theme" id="s63401_f1_e1" source="1">
+						<fe name="Theme" id="s63401_f1_e1">
 							<fenode idref="s63401_520"/>
 						</fe>
-						<fe name="Useful_location" id="s63401_f1_e2" source="1">
+						<fe name="Useful_location" id="s63401_f1_e2">
 							<fenode idref="s63401_528"/>
 						</fe>
 					</frame>
@@ -26092,19 +25973,19 @@
 							<fenode idref="s63401_525"/>
 						</fe>
 					</frame>
-					<frame name="Locale" id="s63401_f4" source="2">
+					<frame name="Locale" id="s63401_f4">
 						<target>
 							<fenode idref="s63401_32"/>
 						</target>
-						<fe name="Locale" id="s63401_f4_e1" source="2">
+						<fe name="Locale" id="s63401_f4_e1">
 							<fenode idref="s63401_513"/>
 						</fe>
 					</frame>
-					<frame name="Temporary_group" id="s63401_f5" source="2">
+					<frame name="Temporary_group" id="s63401_f5">
 						<target>
 							<fenode idref="s63401_33"/>
 						</target>
-						<fe name="Temporary_group" id="s63401_f5_e1" source="2">
+						<fe name="Temporary_group" id="s63401_f5_e1">
 							<fenode idref="s63401_522"/>
 						</fe>
 					</frame>
@@ -26233,10 +26114,7 @@
 						<target>
 							<fenode idref="s63402_11"/>
 						</target>
-						<fe name="Locale" id="s63402_f1_e1" source="1">
-							<fenode idref="s63402_11"/>
-						</fe>
-						<fe name="Locale" id="s63402_f1_e2" source="2">
+						<fe name="Locale" id="s63402_f1_e1" source="2">
 							<fenode idref="s63402_516"/>
 						</fe>
 					</frame>
@@ -26259,14 +26137,14 @@
 							<fenode idref="s63402_507"/>
 						</fe>
 					</frame>
-					<frame name="Information" id="s63402_f4" source="2">
+					<frame name="Information" id="s63402_f4">
 						<target>
 							<fenode idref="s63402_18"/>
 						</target>
-						<fe name="Information" id="s63402_f4_e1" source="2">
+						<fe name="Information" id="s63402_f4_e1">
 							<fenode idref="s63402_503"/>
 						</fe>
-						<fe name="Cognizer" id="s63402_f4_e2" source="2">
+						<fe name="Cognizer" id="s63402_f4_e2">
 							<fenode idref="s63402_502"/>
 						</fe>
 					</frame>
@@ -26453,10 +26331,7 @@
 						<fe name="Information" id="s63403_f1_e2" source="1">
 							<fenode idref="s63403_20"/>
 						</fe>
-						<fe name="Cognizer" id="s63403_f1_e3" source="2">
-							<fenode idref="s63403_502"/>
-						</fe>
-						<fe name="Expressor" id="s63403_f1_e4" source="2">
+						<fe name="Expressor" id="s63403_f1_e3" source="2">
 							<fenode idref="s63403_517"/>
 							<fenode idref="s63403_500"/>
 						</fe>
@@ -26564,14 +26439,14 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Temporary_group" id="s63404_f1" source="2">
+					<frame name="Temporary_group" id="s63404_f1">
 						<target>
 							<fenode idref="s63404_12"/>
 						</target>
-						<fe name="Parent_organization" id="s63404_f1_e1" source="2">
+						<fe name="Parent_organization" id="s63404_f1_e1">
 							<fenode idref="s63404_506"/>
 						</fe>
-						<fe name="Temporary_group" id="s63404_f1_e2" source="2">
+						<fe name="Temporary_group" id="s63404_f1_e2">
 							<fenode idref="s63404_508"/>
 						</fe>
 					</frame>
@@ -26808,35 +26683,35 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Activity" id="s63406_f1" source="1">
+					<frame name="Activity" id="s63406_f1">
 						<target>
 							<fenode idref="s63406_9"/>
 						</target>
-						<fe name="Agent" id="s63406_f1_e1" source="1">
+						<fe name="Agent" id="s63406_f1_e1">
 							<fenode idref="s63406_9"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63406_f2" source="1">
+					<frame name="People" id="s63406_f2">
 						<target>
 							<fenode idref="s63406_6"/>
 						</target>
-						<fe name="Person" id="s63406_f2_e1" source="1">
+						<fe name="Person" id="s63406_f2_e1">
 							<fenode idref="s63406_502"/>
 						</fe>
 					</frame>
-					<frame name="People" id="s63406_f3" source="1">
+					<frame name="People" id="s63406_f3">
 						<target>
 							<fenode idref="s63406_3"/>
 						</target>
-						<fe name="Person" id="s63406_f3_e1" source="1">
+						<fe name="Person" id="s63406_f3_e1">
 							<fenode idref="s63406_510"/>
 						</fe>
 					</frame>
-					<frame name="Locale" id="s63406_f4" source="1">
+					<frame name="Locale" id="s63406_f4">
 						<target>
 							<fenode idref="s63406_20"/>
 						</target>
-						<fe name="Locale" id="s63406_f4_e1" source="1">
+						<fe name="Locale" id="s63406_f4_e1">
 							<fenode idref="s63406_508"/>
 						</fe>
 					</frame>
@@ -27002,11 +26877,11 @@
 							<fenode idref="s63407_4"/>
 						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63407_f3" source="1">
+					<frame name="People_by_vocation" id="s63407_f3">
 						<target>
 							<fenode idref="s63407_6"/>
 						</target>
-						<fe name="Person" id="s63407_f3_e1" source="1">
+						<fe name="Person" id="s63407_f3_e1">
 							<fenode idref="s63407_503"/>
 							<fenode idref="s63407_4"/>
 						</fe>
@@ -27372,17 +27247,17 @@
 				<globals>
 				</globals>
 				<frames>
-					<frame name="Placing" id="s63409_f1" source="1">
+					<frame name="Placing" id="s63409_f1">
 						<target>
 							<fenode idref="s63409_21"/>
 						</target>
-						<fe name="Agent" id="s63409_f1_e1" source="1">
+						<fe name="Agent" id="s63409_f1_e1">
 							<fenode idref="s63409_538"/>
 						</fe>
-						<fe name="Theme" id="s63409_f1_e2" source="1">
+						<fe name="Theme" id="s63409_f1_e2">
 							<fenode idref="s63409_21"/>
 						</fe>
-						<fe name="Goal" id="s63409_f1_e3" source="1">
+						<fe name="Goal" id="s63409_f1_e3">
 							<fenode idref="s63409_21"/>
 						</fe>
 					</frame>
@@ -27408,11 +27283,11 @@
 							<fenode idref="s63409_520"/>
 						</fe>
 					</frame>
-					<frame name="Temporary_group" id="s63409_f4" source="2">
+					<frame name="Temporary_group" id="s63409_f4">
 						<target>
 							<fenode idref="s63409_28"/>
 						</target>
-						<fe name="Temporary_group" id="s63409_f4_e1" source="2">
+						<fe name="Temporary_group" id="s63409_f4_e1">
 							<fenode idref="s63409_538"/>
 						</fe>
 					</frame>
@@ -27654,17 +27529,6 @@
 							<fenode idref="s63411_506"/>
 						</fe>
 					</frame>
-					<frame name="Possession" id="s63411_f1" source="1">
-						<target>
-							<fenode idref="s63411_13"/>
-						</target>
-						<fe name="Owner" id="s63411_f1_e1" source="1">
-							<fenode idref="s63411_516"/>
-						</fe>
-						<fe name="Possession" id="s63411_f1_e2" source="1">
-							<fenode idref="s63411_515"/>
-						</fe>
-					</frame>
 					<frame name="Operate_vehicle" id="s63411_f2" source="2">
 						<target>
 							<fenode idref="s63411_13"/>
@@ -27676,20 +27540,31 @@
 							<fenode idref="s63411_507"/>
 						</fe>
 					</frame>
-					<frame name="Buildings" id="s63411_f4" source="2">
+					<frame name="Buildings" id="s63411_f4">
 						<target>
 							<fenode idref="s63411_15"/>
 						</target>
-						<fe name="Building" id="s63411_f4_e1" source="2">
+						<fe name="Building" id="s63411_f4_e1">
 							<fenode idref="s63411_508"/>
 						</fe>
 					</frame>
-					<frame name="People_by_vocation" id="s63411_f5" source="2">
+					<frame name="People_by_vocation" id="s63411_f5">
 						<target>
 							<fenode idref="s63411_18"/>
 						</target>
-						<fe name="Person" id="s63411_f5_e1" source="2">
+						<fe name="Person" id="s63411_f5_e1">
 							<fenode idref="s63411_516"/>
+						</fe>
+					</frame>
+					<frame name="Possession" id="s63411_f1">
+						<target>
+							<fenode idref="s63411_13"/>
+						</target>
+						<fe name="Owner" id="s63411_f1_e1">
+							<fenode idref="s63411_516"/>
+						</fe>
+						<fe name="Possession" id="s63411_f1_e2">
+							<fenode idref="s63411_515"/>
 						</fe>
 					</frame>
 				</frames>
@@ -27858,10 +27733,7 @@
 						<target>
 							<fenode idref="s63412_4"/>
 						</target>
-						<fe name="Entity" id="s63412_f1_e1" source="1">
-							<fenode idref="s63412_4"/>
-						</fe>
-						<fe name="Entity" id="s63412_f1_e2" source="2">
+						<fe name="Entity" id="s63412_f1_e1" source="2">
 							<fenode idref="s63412_502"/>
 						</fe>
 					</frame>
@@ -27875,9 +27747,6 @@
 						<fe name="Ground" id="s63412_f2_e2">
 							<fenode idref="s63412_502"/>
 						</fe>
-						<fe name="Cognizer" id="s63412_f2_e3" source="2">
-							<fenode idref="s63412_507"/>
-						</fe>
 					</frame>
 					<frame name="Government_institution" id="s63412_f3">
 						<target>
@@ -27886,15 +27755,12 @@
 						<fe name="Institution" id="s63412_f3_e1" source="1">
 							<fenode idref="s63412_21"/>
 						</fe>
-						<fe name="Institution" id="s63412_f3_e2" source="2">
-							<fenode idref="s63412_513"/>
-						</fe>
 					</frame>
-					<frame name="People_along_political_spectrum" id="s63412_f4" source="2">
+					<frame name="People_along_political_spectrum" id="s63412_f4">
 						<target>
 							<fenode idref="s63412_19"/>
 						</target>
-						<fe name="Individual" id="s63412_f4_e1" source="2">
+						<fe name="Individual" id="s63412_f4_e1">
 							<fenode idref="s63412_521"/>
 						</fe>
 					</frame>
@@ -28070,9 +27936,6 @@
 						<fe name="Supported" id="s63413_f1_e2" source="1">
 							<fenode idref="s63413_7"/>
 						</fe>
-						<fe name="Supporter" id="s63413_f1_e3" source="2">
-							<fenode idref="s63413_7"/>
-						</fe>
 					</frame>
 					<frame name="Government_institution" id="s63413_f2">
 						<target>
@@ -28080,9 +27943,6 @@
 						</target>
 						<fe name="Institution" id="s63413_f2_e1" source="1">
 							<fenode idref="s63413_15"/>
-						</fe>
-						<fe name="Institution" id="s63413_f2_e2" source="2">
-							<fenode idref="s63413_507"/>
 						</fe>
 					</frame>
 					<frame name="Scrutiny" id="s63413_f3">
@@ -28094,9 +27954,6 @@
 						</fe>
 						<fe name="Ground" id="s63413_f3_e2">
 							<fenode idref="s63413_511"/>
-						</fe>
-						<fe name="Cognizer" id="s63413_f3_e3" source="2">
-							<fenode idref="s63413_509"/>
 						</fe>
 					</frame>
 				</frames>
@@ -28430,16 +28287,10 @@
 						<target>
 							<fenode idref="s63416_8"/>
 						</target>
-						<fe name="Authority" id="s63416_f1_e1" source="1">
-							<fenode idref="s63416_13"/>
-						</fe>
-						<fe name="Suspect" id="s63416_f1_e2" source="1">
-							<fenode idref="s63416_10"/>
-						</fe>
-						<fe name="Authority" id="s63416_f1_e3" source="2">
+						<fe name="Authority" id="s63416_f1_e1" source="2">
 							<fenode idref="s63416_506"/>
 						</fe>
-						<fe name="Suspect" id="s63416_f1_e4" source="2">
+						<fe name="Suspect" id="s63416_f1_e2" source="2">
 							<fenode idref="s63416_505"/>
 						</fe>
 					</frame>
@@ -28639,19 +28490,19 @@
 							<fenode idref="s63417_7"/>
 						</fe>
 					</frame>
-					<frame name="Departing" id="s63417_f3" source="1">
+					<frame name="Departing" id="s63417_f3">
 						<target>
 							<fenode idref="s63417_16"/>
 						</target>
-						<fe name="Theme" id="s63417_f3_e1" source="1">
+						<fe name="Theme" id="s63417_f3_e1">
 							<fenode idref="s63417_523"/>
 						</fe>
 					</frame>
-					<frame name="Amounting_to" id="s63417_f4" source="1">
+					<frame name="Amounting_to" id="s63417_f4">
 						<target>
 							<fenode idref="s63417_20"/>
 						</target>
-						<fe name="Value" id="s63417_f4_e1" source="1">
+						<fe name="Value" id="s63417_f4_e1">
 							<fenode idref="s63417_516"/>
 						</fe>
 					</frame>
@@ -28663,16 +28514,16 @@
 							<fenode idref="s63417_7"/>
 						</fe>
 					</frame>
-					<frame name="Documents" id="s63417_f6" source="2">
+					<frame name="Documents" id="s63417_f6">
 						<target>
 							<fenode idref="s63417_7"/>
 						</target>
 					</frame>
-					<frame name="Building_subparts" id="s63417_f7" source="2">
+					<frame name="Building_subparts" id="s63417_f7">
 						<target>
 							<fenode idref="s63417_10"/>
 						</target>
-						<fe name="Building_part" id="s63417_f7_e1" source="2">
+						<fe name="Building_part" id="s63417_f7_e1">
 							<fenode idref="s63417_505"/>
 						</fe>
 					</frame>
@@ -28787,10 +28638,7 @@
 						<target>
 							<fenode idref="s63418_12"/>
 						</target>
-						<fe name="Place" id="s63418_f1_e1" source="1">
-							<fenode idref="s63418_9"/>
-						</fe>
-						<fe name="Place" id="s63418_f1_e2" source="2">
+						<fe name="Place" id="s63418_f1_e1" source="2">
 							<fenode idref="s63418_510"/>
 						</fe>
 					</frame>
@@ -28798,10 +28646,7 @@
 						<target>
 							<fenode idref="s63418_3"/>
 						</target>
-						<fe name="Person" id="s63418_f2_e1" source="1">
-							<fenode idref="s63418_3"/>
-						</fe>
-						<fe name="Person" id="s63418_f2_e2" source="2">
+						<fe name="Person" id="s63418_f2_e1" source="2">
 							<fenode idref="s63418_508"/>
 						</fe>
 					</frame>
@@ -28941,18 +28786,15 @@
 						<fe name="Individuals" id="s63419_f1_e1" source="1">
 							<fenode idref="s63419_6"/>
 						</fe>
-						<fe name="Individual1" id="s63419_f1_e2" source="1">
-							<fenode idref="s63419_1"/>
-						</fe>
-						<fe name="Individual1" id="s63419_f1_e3" source="2">
+						<fe name="Individual1" id="s63419_f1_e2" source="2">
 							<fenode idref="s63419_500"/>
 						</fe>
 					</frame>
-					<frame name="Locale" id="s63419_f2" source="2">
+					<frame name="Locale" id="s63419_f2">
 						<target>
 							<fenode idref="s63419_8"/>
 						</target>
-						<fe name="Locale" id="s63419_f2_e1" source="2">
+						<fe name="Locale" id="s63419_f2_e1">
 							<fenode idref="s63419_511"/>
 							<fenode idref="s63419_515"/>
 						</fe>
